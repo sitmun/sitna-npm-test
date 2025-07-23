@@ -1,0 +1,21 @@
+{
+  "accuracy": 17,
+  "area": "Mozambique - south.",
+  "authority": "EPSG",
+  "bbox": [
+    -19.84,
+    31.29,
+    -26.87,
+    35.65
+  ],
+  "code": "61296405",
+  "default_trans": 6900,
+  "kind": "CRS-GEOGCRS",
+  "name": "Observatario (deg)",
+  "proj4": "",
+  "trans": [
+    6900
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

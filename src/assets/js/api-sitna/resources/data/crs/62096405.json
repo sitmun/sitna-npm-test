@@ -1,0 +1,31 @@
+{
+  "accuracy": 44,
+  "area": "Botswana; Malawi; Zambia; Zimbabwe.",
+  "authority": "EPSG",
+  "bbox": [
+    -8.19,
+    19.99,
+    -26.88,
+    35.93
+  ],
+  "code": "62096405",
+  "default_trans": 1113,
+  "kind": "CRS-GEOGCRS",
+  "name": "Arc 1950 (deg)",
+  "proj4": "",
+  "trans": [
+    1113,
+    1114,
+    1115,
+    1116,
+    1117,
+    1118,
+    1119,
+    1120,
+    1121,
+    6904,
+    6906
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

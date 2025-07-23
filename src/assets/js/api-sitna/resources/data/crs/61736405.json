@@ -1,0 +1,23 @@
+{
+  "accuracy": 1,
+  "area": "Ireland - onshore. United Kingdom (UK) - Northern Ireland (Ulster) - onshore.",
+  "authority": "EPSG",
+  "bbox": [
+    55.43,
+    -10.56,
+    51.39,
+    -5.34
+  ],
+  "code": "61736405",
+  "default_trans": 1678,
+  "kind": "CRS-GEOGCRS",
+  "name": "IRENET95 (deg)",
+  "proj4": "",
+  "trans": [
+    1611,
+    1678,
+    8580
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

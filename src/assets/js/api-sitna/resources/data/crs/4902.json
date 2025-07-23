@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "France - Alsace.",
+  "authority": "EPSG",
+  "bbox": [
+    49.07,
+    6.84,
+    47.42,
+    8.23
+  ],
+  "code": "4902",
+  "default_trans": 0,
+  "kind": "CRS-GEOGCRS",
+  "name": "NDG (Paris)",
+  "proj4": "+proj=longlat +a=6376523 +rf=308.64 +pm=paris +no_defs +type=crs",
+  "trans": [],
+  "unit": "grad",
+  "wkt": "GEOGCS[\"NDG (Paris) (deprecated)\",DATUM[\"Nord_de_Guerre_Paris\",SPHEROID[\"Plessis 1817\",6376523,308.64,AUTHORITY[\"EPSG\",\"7027\"]],AUTHORITY[\"EPSG\",\"6902\"]],PRIMEM[\"Paris\",2.33722917,AUTHORITY[\"EPSG\",\"8903\"]],UNIT[\"grad\",0.0157079632679489,AUTHORITY[\"EPSG\",\"9105\"]],AUTHORITY[\"EPSG\",\"4902\"]]"
+}

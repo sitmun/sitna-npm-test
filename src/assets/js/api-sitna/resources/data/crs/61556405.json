@@ -1,0 +1,21 @@
+{
+  "accuracy": 25,
+  "area": "Guinea - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    12.68,
+    -18.26,
+    7.19,
+    -7.65
+  ],
+  "code": "61556405",
+  "default_trans": 1518,
+  "kind": "CRS-GEOGCRS",
+  "name": "Dabola 1981 (deg)",
+  "proj4": "",
+  "trans": [
+    1518
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

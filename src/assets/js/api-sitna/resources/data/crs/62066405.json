@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "Niger.",
+  "authority": "EPSG",
+  "bbox": [
+    23.53,
+    0.16,
+    11.69,
+    16
+  ],
+  "code": "62066405",
+  "default_trans": 0,
+  "kind": "CRS-GEOGCRS",
+  "name": "Agadez (deg)",
+  "proj4": "",
+  "trans": [],
+  "unit": "degree",
+  "wkt": ""
+}

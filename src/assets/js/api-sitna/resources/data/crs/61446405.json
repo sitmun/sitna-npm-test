@@ -1,0 +1,22 @@
+{
+  "accuracy": 5,
+  "area": "Bangladesh - onshore; India - mainland onshore; Myanmar - onshore and Moattama area offshore; Pakistan - onshore.",
+  "authority": "EPSG",
+  "bbox": [
+    37.07,
+    60.86,
+    8.02,
+    101.17
+  ],
+  "code": "61446405",
+  "default_trans": 1533,
+  "kind": "CRS-GEOGCRS",
+  "name": "Kalianpur 1937 (deg)",
+  "proj4": "",
+  "trans": [
+    1155,
+    1533
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

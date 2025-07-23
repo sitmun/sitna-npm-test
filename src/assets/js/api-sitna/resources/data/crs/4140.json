@@ -1,0 +1,21 @@
+{
+  "accuracy": "",
+  "area": "Canada - Alberta; New Brunswick; Saskatchewan; Prince Edward Island; and Quebec.",
+  "authority": "EPSG",
+  "bbox": [
+    62.56,
+    -120,
+    44.61,
+    -57.1
+  ],
+  "code": "4140",
+  "default_trans": 0,
+  "kind": "CRS-GEOGCRS",
+  "name": "NAD83(CSRS98)",
+  "proj4": "+proj=longlat +ellps=GRS80 +no_defs +type=crs",
+  "trans": [
+    1473
+  ],
+  "unit": "degree minute second hemisphere",
+  "wkt": "GEOGCS[\"NAD83(CSRS98) (deprecated)\",DATUM[\"NAD83_Canadian_Spatial_Reference_System\",SPHEROID[\"GRS 1980\",6378137,298.257222101,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6140\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree minute second hemisphere\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9108\"]],AUTHORITY[\"EPSG\",\"4140\"]]"
+}

@@ -1,0 +1,24 @@
+{
+  "accuracy": "",
+  "area": "Indonesia - Kalimantan - onshore southeast coastal area including Mahakam delta coastal and offshore shelf areas.",
+  "authority": "EPSG",
+  "bbox": [
+    0,
+    114.55,
+    -4.24,
+    117.99
+  ],
+  "code": "4294",
+  "default_trans": 0,
+  "kind": "CRS-GEOGCRS",
+  "name": "Segora",
+  "proj4": "+proj=longlat +ellps=bessel +no_defs +type=crs",
+  "trans": [
+    1286,
+    1834,
+    1835,
+    1836
+  ],
+  "unit": "degree minute second hemisphere",
+  "wkt": "GEOGCS[\"Segora (deprecated)\",DATUM[\"Segora\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128,AUTHORITY[\"EPSG\",\"7004\"]],AUTHORITY[\"EPSG\",\"6294\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree minute second hemisphere\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9108\"]],AUTHORITY[\"EPSG\",\"4294\"]]"
+}

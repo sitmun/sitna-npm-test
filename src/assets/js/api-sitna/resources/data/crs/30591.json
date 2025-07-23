@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "Algeria - north of 34~39'N",
+  "authority": "ESRI",
+  "bbox": [
+    37.14,
+    -2.22,
+    34.64,
+    8.64
+  ],
+  "code": "30591",
+  "default_trans": 0,
+  "kind": "CRS-PROJCRS",
+  "name": "Nord Algerie - deprecated, use Nord Sahara",
+  "proj4": "+proj=lcc +lat_1=36 +lat_0=36 +lon_0=2.7 +k_0=0.999625544 +x_0=500135 +y_0=300090 +a=6378249.145 +rf=293.465 +units=m +no_defs +type=crs",
+  "trans": [],
+  "unit": "",
+  "wkt": "PROJCS[\"Nord_Algerie (deprecated)\",GEOGCS[\"GCS_Voirol_Unifie_1960 (deprecated)\",DATUM[\"D_Voirol_Unifie_1960\",SPHEROID[\"Clarke 1880 (RGS)\",6378249.145,293.465,AUTHORITY[\"EPSG\",\"7012\"]],AUTHORITY[\"ESRI\",\"106011\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"grad\",0.0157079632679489,AUTHORITY[\"EPSG\",\"9105\"]],AUTHORITY[\"ESRI\",\"4305\"]],PROJECTION[\"Lambert_Conformal_Conic_1SP\"],PARAMETER[\"latitude_of_origin\",40],PARAMETER[\"central_meridian\",3],PARAMETER[\"scale_factor\",0.999625544],PARAMETER[\"false_easting\",500135],PARAMETER[\"false_northing\",300090],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"ESRI\",\"30591\"]]"
+}

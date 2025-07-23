@@ -1,0 +1,22 @@
+{
+  "accuracy": "",
+  "area": "Romania - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    48.27,
+    20.26,
+    43.44,
+    31.41
+  ],
+  "code": "63176405",
+  "default_trans": 0,
+  "kind": "CRS-GEOGCRS",
+  "name": "Dealul Piscului 1970 (deg)",
+  "proj4": "",
+  "trans": [
+    1097,
+    1996
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

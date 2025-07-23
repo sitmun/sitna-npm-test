@@ -1,0 +1,23 @@
+{
+  "accuracy": 1,
+  "area": "Bermuda - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    35.73,
+    -68.83,
+    28.91,
+    -60.7
+  ],
+  "code": "62166405",
+  "default_trans": 15970,
+  "kind": "CRS-GEOGCRS",
+  "name": "Bermuda 1957 (deg)",
+  "proj4": "",
+  "trans": [
+    1124,
+    15969,
+    15970
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

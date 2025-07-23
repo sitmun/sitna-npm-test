@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "Portugal - Azores - west of 30~W",
+  "authority": "ESRI",
+  "bbox": [
+    43.07,
+    -35.58,
+    35.25,
+    -30
+  ],
+  "code": "102331",
+  "default_trans": 0,
+  "kind": "CRS-PROJCRS",
+  "name": "Portugal - Azores - Occidental group - Flores and Corvo",
+  "proj4": "+proj=utm +zone=25 +ellps=GRS80 +units=m +no_defs +type=crs",
+  "trans": [],
+  "unit": "",
+  "wkt": "PROJCS[\"PTRA08_UTM_Zone_25N (deprecated)\",GEOGCS[\"PTRA08\",DATUM[\"Autonomous_Regions_of_Portugal_2008\",SPHEROID[\"GRS 1980\",6378137,298.257222101,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"1041\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"5013\"]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",-33],PARAMETER[\"scale_factor\",0.9996],PARAMETER[\"false_easting\",500000],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"ESRI\",\"102331\"]]"
+}

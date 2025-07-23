@@ -1,0 +1,22 @@
+{
+  "accuracy": "",
+  "area": "Indonesia - south west Sulawesi.",
+  "authority": "EPSG",
+  "bbox": [
+    -1.88,
+    118.71,
+    -6.54,
+    120.78
+  ],
+  "code": "68046405",
+  "default_trans": 1260,
+  "kind": "CRS-GEOGCRS",
+  "name": "Makassar (Jakarta) (deg)",
+  "proj4": "",
+  "trans": [
+    1260,
+    8638
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

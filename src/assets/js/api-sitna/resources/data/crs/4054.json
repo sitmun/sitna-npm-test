@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "Not specified.",
+  "authority": "EPSG",
+  "bbox": [
+    90,
+    -180,
+    -90,
+    180
+  ],
+  "code": "4054",
+  "default_trans": 0,
+  "kind": "CRS-GEOGCRS",
+  "name": "Unspecified datum based upon the Hughes 1980 ellipsoid",
+  "proj4": "+proj=longlat +a=6378273 +b=6356889.449 +no_defs +type=crs",
+  "trans": [],
+  "unit": "degree (supplier to define representation)",
+  "wkt": "GEOGCS[\"Unspecified datum based upon the Hughes 1980 ellipsoid (deprecated)\",DATUM[\"Not_specified_based_on_Hughes_1980_ellipsoid\",SPHEROID[\"Hughes 1980\",6378273,298.279411123064,AUTHORITY[\"EPSG\",\"7058\"]],AUTHORITY[\"EPSG\",\"6054\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4054\"]]"
+}

@@ -1,0 +1,34 @@
+{
+  "accuracy": "",
+  "area": "Brazil - onshore and offshore. Includes Rocas, Fernando de Noronha archipelago, Trindade, Ihlas Martim Vaz and Sao Pedro e Sao Paulo.",
+  "authority": "EPSG",
+  "bbox": [
+    7.04,
+    -74.01,
+    -35.71,
+    -25.28
+  ],
+  "code": "29100",
+  "default_trans": 0,
+  "kind": "CRS-PROJCRS",
+  "name": "SAD69 / Brazil Polyconic",
+  "proj4": "+proj=poly +lat_0=0 +lon_0=-54 +x_0=5000000 +y_0=10000000 +ellps=GRS67 +units=m +no_defs +type=crs",
+  "trans": [
+    1212,
+    1213,
+    1214,
+    1215,
+    1216,
+    1217,
+    1218,
+    1219,
+    1220,
+    1221,
+    1222,
+    1223,
+    1224,
+    1548
+  ],
+  "unit": "metre",
+  "wkt": "PROJCS[\"SAD69 / Brazil Polyconic (deprecated)\",GEOGCS[\"SAD69 (deprecated)\",DATUM[\"South_American_Datum_1969\",SPHEROID[\"GRS 1967\",6378160,298.247167427,AUTHORITY[\"EPSG\",\"7036\"]],AUTHORITY[\"EPSG\",\"6291\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree minute second hemisphere\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9108\"]],AUTHORITY[\"EPSG\",\"4291\"]],PROJECTION[\"Polyconic\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",-54],PARAMETER[\"false_easting\",5000000],PARAMETER[\"false_northing\",10000000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"EPSG\",\"29100\"]]"
+}

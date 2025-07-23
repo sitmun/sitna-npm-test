@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "USA - Wisconsin",
+  "authority": "ESRI",
+  "bbox": [
+    47.31,
+    -92.89,
+    42.48,
+    -86.25
+  ],
+  "code": "103913",
+  "default_trans": 0,
+  "kind": "CRS-PROJCRS",
+  "name": "NAD 1983 HARN Adj. Wisconsin Forest (US foot) (DEPRECATED)",
+  "proj4": "+proj=tmerc +lat_0=44.0055555555556 +lon_0=-88.6333333333333 +k=0.999996 +x_0=275844.551689103 +y_0=0 +a=6378591.521 +rf=298.278476609315 +units=us-ft +no_defs +type=crs",
+  "trans": [],
+  "unit": "",
+  "wkt": "PROJCS[\"NAD_1983_HARN_Adj_WI_Forest_Feet (deprecated)\",GEOGCS[\"GCS_NAD_1983_HARN_Adj_WI_Forest (deprecated)\",DATUM[\"D_NAD_1983_HARN_Adj_WI_FR\",SPHEROID[\"GRS_1980_Adj_WI_FR\",6378591.521,298.278476609315,AUTHORITY[\"ESRI\",\"107816\"]],AUTHORITY[\"ESRI\",\"106816\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"ESRI\",\"104820\"]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",44.0055555555556],PARAMETER[\"central_meridian\",-88.6333333333333],PARAMETER[\"scale_factor\",0.999996],PARAMETER[\"false_easting\",905000],PARAMETER[\"false_northing\",0],UNIT[\"US survey foot\",0.304800609601219,AUTHORITY[\"EPSG\",\"9003\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"ESRI\",\"103913\"]]"
+}

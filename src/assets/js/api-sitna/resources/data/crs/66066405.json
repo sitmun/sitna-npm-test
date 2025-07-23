@@ -1,0 +1,22 @@
+{
+  "accuracy": 2,
+  "area": "St Lucia - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    14.28,
+    -62.8,
+    13.23,
+    -59.99
+  ],
+  "code": "66066405",
+  "default_trans": 6897,
+  "kind": "CRS-GEOGCRS",
+  "name": "St. Lucia 1955 (deg)",
+  "proj4": "",
+  "trans": [
+    1446,
+    6897
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

@@ -1,0 +1,25 @@
+{
+  "accuracy": 1,
+  "area": "Portugal - Madeira, Porto Santo and Desertas islands - onshore.",
+  "authority": "EPSG",
+  "bbox": [
+    33.15,
+    -17.31,
+    32.35,
+    -16.23
+  ],
+  "code": "66636405",
+  "default_trans": 1967,
+  "kind": "CRS-GEOGCRS",
+  "name": "Porto Santo 1995 (deg)",
+  "proj4": "",
+  "trans": [
+    1966,
+    1967,
+    5021,
+    5022,
+    5023
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

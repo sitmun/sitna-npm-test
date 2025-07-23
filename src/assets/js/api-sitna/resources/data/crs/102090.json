@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "Bermuda",
+  "authority": "ESRI",
+  "bbox": [
+    35.73,
+    -68.83,
+    28.91,
+    -60.7
+  ],
+  "code": "102090",
+  "default_trans": 0,
+  "kind": "CRS-PROJCRS",
+  "name": "Bermuda 2000 National Grid",
+  "proj4": "+proj=tmerc +lat_0=32 +lon_0=-64.75 +k=1 +x_0=550000 +y_0=100000 +ellps=WGS84 +units=m +no_defs +type=crs",
+  "trans": [],
+  "unit": "",
+  "wkt": "PROJCS[\"Bermuda_2000_National_Grid (deprecated)\",GEOGCS[\"BDA2000\",DATUM[\"Bermuda_2000\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6762\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4762\"]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",32],PARAMETER[\"central_meridian\",-64.75],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",550000],PARAMETER[\"false_northing\",100000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"ESRI\",\"102090\"]]"
+}

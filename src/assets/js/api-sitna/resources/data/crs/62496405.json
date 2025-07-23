@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "Venezuela - Lake Maracaibo area, onshore and offshore in lake.",
+  "authority": "EPSG",
+  "bbox": [
+    11.04,
+    -72.4,
+    8.72,
+    -70.78
+  ],
+  "code": "62496405",
+  "default_trans": 0,
+  "kind": "CRS-GEOGCRS",
+  "name": "Lake (deg)",
+  "proj4": "",
+  "trans": [],
+  "unit": "degree",
+  "wkt": ""
+}

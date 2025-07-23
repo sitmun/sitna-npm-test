@@ -1,0 +1,23 @@
+{
+  "accuracy": 1,
+  "area": "Ireland - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    56.57,
+    -16.1,
+    48.18,
+    -5.24
+  ],
+  "code": "62996405",
+  "default_trans": 1641,
+  "kind": "CRS-GEOGCRS",
+  "name": "TM65 (deg)",
+  "proj4": "",
+  "trans": [
+    1229,
+    1640,
+    1641
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

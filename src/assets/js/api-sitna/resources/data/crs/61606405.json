@@ -1,0 +1,24 @@
+{
+  "accuracy": 2.5,
+  "area": "Argentina - Neuquen province.",
+  "authority": "EPSG",
+  "bbox": [
+    -34.26,
+    -71.19,
+    -40.17,
+    -66.52
+  ],
+  "code": "61606405",
+  "default_trans": 9258,
+  "kind": "CRS-GEOGCRS",
+  "name": "Chos Malal 1914 (deg)",
+  "proj4": "",
+  "trans": [
+    1528,
+    8517,
+    9257,
+    9258
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

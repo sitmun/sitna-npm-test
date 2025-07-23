@@ -1,0 +1,22 @@
+{
+  "accuracy": 35,
+  "area": "Namibia - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    -16.95,
+    8.24,
+    -30.64,
+    25.27
+  ],
+  "code": "62936405",
+  "default_trans": 1226,
+  "kind": "CRS-GEOGCRS",
+  "name": "Schwarzeck (deg)",
+  "proj4": "",
+  "trans": [
+    1226,
+    1271
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

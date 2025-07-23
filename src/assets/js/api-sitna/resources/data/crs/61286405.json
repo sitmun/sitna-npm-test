@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "Mozambique - west - Tete province.",
+  "authority": "EPSG",
+  "bbox": [
+    -14.01,
+    30.21,
+    -17.76,
+    35.37
+  ],
+  "code": "61286405",
+  "default_trans": 0,
+  "kind": "CRS-GEOGCRS",
+  "name": "Madzansua (deg)",
+  "proj4": "",
+  "trans": [],
+  "unit": "degree",
+  "wkt": ""
+}

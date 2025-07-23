@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "Chile - onshore and offshore. Includes Easter Island, Juan Fernandez Islands, San Felix, and Sala y Gomez.",
+  "authority": "EPSG",
+  "bbox": [
+    -17.5,
+    -113.21,
+    -59.87,
+    -65.72
+  ],
+  "code": "9183",
+  "default_trans": 0,
+  "kind": "CRS-GEOG3DCRS",
+  "name": "SIRGAS-Chile",
+  "proj4": "+proj=longlat +ellps=GRS80 +no_defs +type=crs",
+  "trans": [],
+  "unit": "degree (supplier to define representation)",
+  "wkt": ""
+}

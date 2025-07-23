@@ -1,0 +1,22 @@
+{
+  "accuracy": "",
+  "area": "Liechtenstein; Switzerland.",
+  "authority": "EPSG",
+  "bbox": [
+    47.81,
+    5.96,
+    45.82,
+    10.49
+  ],
+  "code": "68016405",
+  "default_trans": 1765,
+  "kind": "CRS-GEOGCRS",
+  "name": "Bern 1898 (Bern) (deg)",
+  "proj4": "",
+  "trans": [
+    1519,
+    1765
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

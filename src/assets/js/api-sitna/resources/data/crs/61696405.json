@@ -1,0 +1,28 @@
+{
+  "accuracy": 44,
+  "area": "American Samoa - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    -10.02,
+    -173.75,
+    -17.56,
+    -165.2
+  ],
+  "code": "61696405",
+  "default_trans": 1577,
+  "kind": "CRS-GEOGCRS",
+  "name": "American Samoa 1962 (deg)",
+  "proj4": "",
+  "trans": [
+    1577,
+    1578,
+    1579,
+    1694,
+    1695,
+    8574,
+    8575,
+    8662
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

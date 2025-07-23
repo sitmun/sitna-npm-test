@@ -1,0 +1,21 @@
+{
+  "accuracy": 26,
+  "area": "Liberia - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    8.52,
+    -13.59,
+    1.02,
+    -7.36
+  ],
+  "code": "62516405",
+  "default_trans": 1160,
+  "kind": "CRS-GEOGCRS",
+  "name": "Liberia 1964 (deg)",
+  "proj4": "",
+  "trans": [
+    1160
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

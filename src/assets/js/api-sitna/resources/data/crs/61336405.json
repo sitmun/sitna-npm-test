@@ -1,0 +1,22 @@
+{
+  "accuracy": 0.5,
+  "area": "Estonia - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    60,
+    20.37,
+    57.52,
+    28.2
+  ],
+  "code": "61336405",
+  "default_trans": 1333,
+  "kind": "CRS-GEOGCRS",
+  "name": "EST92 (deg)",
+  "proj4": "",
+  "trans": [
+    1331,
+    1333
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

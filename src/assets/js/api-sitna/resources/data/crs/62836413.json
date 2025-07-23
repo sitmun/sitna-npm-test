@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "Australia - onshore and offshore to 200 nautical mile EEZ boundary. Includes Lord Howe Island, Ashmore and Cartier Islands.",
+  "authority": "EPSG",
+  "bbox": [
+    -8.88,
+    109.23,
+    -47.2,
+    163.2
+  ],
+  "code": "62836413",
+  "default_trans": 0,
+  "kind": "CRS-GEOG3DCRS",
+  "name": "GDA94 (3D deg)",
+  "proj4": "",
+  "trans": [],
+  "unit": "degree",
+  "wkt": ""
+}

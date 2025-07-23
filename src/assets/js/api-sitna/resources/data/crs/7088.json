@@ -1,0 +1,21 @@
+{
+  "accuracy": 1,
+  "area": "French Southern Territories - onshore and offshore: Amsterdam and St Paul, Crozet, Europa and Kerguelen. Antarctica - Adelie Land coastal area.",
+  "authority": "EPSG",
+  "bbox": [
+    -20.91,
+    37.98,
+    -67.13,
+    142
+  ],
+  "code": "7088",
+  "default_trans": 9770,
+  "kind": "CRS-GEOGCRS",
+  "name": "RGTAAF07 (lon-lat)",
+  "proj4": "+proj=longlat +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +no_defs +type=crs",
+  "trans": [
+    9770
+  ],
+  "unit": "degree (supplier to define representation)",
+  "wkt": "GEOGCS[\"RGTAAF07 (lon-lat)\",DATUM[\"Reseau_Geodesique_des_Terres_Australes_et_Antarctiques_Francaises_2007\",SPHEROID[\"GRS 1980\",6378137,298.257222101],TOWGS84[0,0,0,0,0,0,0]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"7088\"]]"
+}

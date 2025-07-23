@@ -1,0 +1,21 @@
+{
+  "accuracy": "",
+  "area": "French Antilles onshore and offshore - Guadeloupe (including Grande Terre, Basse Terre, Marie Galante, Les Saintes, Iles de la Petite Terre, La Desirade); Martinique; St Barthélemy; St Martin.",
+  "authority": "EPSG",
+  "bbox": [
+    18.53,
+    -63.66,
+    14.08,
+    -57.52
+  ],
+  "code": "66406405",
+  "default_trans": 0,
+  "kind": "CRS-GEOGCRS",
+  "name": "RRAF 1991 (deg)",
+  "proj4": "",
+  "trans": [
+    1934
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

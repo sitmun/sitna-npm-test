@@ -1,0 +1,28 @@
+{
+  "accuracy": 1.5,
+  "area": "Canada - Quebec.",
+  "authority": "EPSG",
+  "bbox": [
+    62.62,
+    -79.85,
+    44.99,
+    -57.1
+  ],
+  "code": "66096405",
+  "default_trans": 1691,
+  "kind": "CRS-GEOGCRS",
+  "name": "NAD27(CGQ77) (deg)",
+  "proj4": "",
+  "trans": [
+    1451,
+    1575,
+    1576,
+    1691,
+    1845,
+    8394,
+    8564,
+    9240
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

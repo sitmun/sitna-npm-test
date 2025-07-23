@@ -1,0 +1,23 @@
+{
+  "accuracy": 9,
+  "area": "Botswana; Eswatini (Swaziland); Lesotho; South Africa - mainland.",
+  "authority": "EPSG",
+  "bbox": [
+    -17.78,
+    16.45,
+    -34.88,
+    32.95
+  ],
+  "code": "62226405",
+  "default_trans": 1128,
+  "kind": "CRS-GEOGCRS",
+  "name": "Cape (deg)",
+  "proj4": "",
+  "trans": [
+    1128,
+    1129,
+    1504
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

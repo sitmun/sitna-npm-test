@@ -1,0 +1,22 @@
+{
+  "accuracy": 7,
+  "area": "Iceland - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    69.59,
+    -30.87,
+    59.96,
+    -5.55
+  ],
+  "code": "66586405",
+  "default_trans": 6909,
+  "kind": "CRS-GEOGCRS",
+  "name": "Hjorsey 1955 (deg)",
+  "proj4": "",
+  "trans": [
+    1951,
+    6909
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

@@ -1,0 +1,24 @@
+{
+  "accuracy": 44,
+  "area": "Cambodia - mainland onshore; Vietnam - mainland onshore.",
+  "authority": "EPSG",
+  "bbox": [
+    23.4,
+    102.14,
+    8.33,
+    109.53
+  ],
+  "code": "61316405",
+  "default_trans": 1542,
+  "kind": "CRS-GEOGCRS",
+  "name": "Indian 1960 (deg)",
+  "proj4": "",
+  "trans": [
+    1541,
+    1542,
+    1543,
+    8532
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

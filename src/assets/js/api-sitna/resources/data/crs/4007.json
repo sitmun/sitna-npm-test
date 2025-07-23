@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "Not specified.",
+  "authority": "EPSG",
+  "bbox": [
+    90,
+    -180,
+    -90,
+    180
+  ],
+  "code": "4007",
+  "default_trans": 0,
+  "kind": "CRS-GEOGCRS",
+  "name": "Unknown datum based upon the Clarke 1858 ellipsoid",
+  "proj4": "+proj=longlat +a=6378293.64520876 +b=6356617.98767984 +no_defs +type=crs",
+  "trans": [],
+  "unit": "degree (supplier to define representation)",
+  "wkt": "GEOGCS[\"Unknown datum based upon the Clarke 1858 ellipsoid (deprecated)\",DATUM[\"Not_specified_based_on_Clarke_1858_ellipsoid\",SPHEROID[\"Clarke 1858\",6378293.64520876,294.260676369261,AUTHORITY[\"EPSG\",\"7007\"]],AUTHORITY[\"EPSG\",\"6007\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4007\"]]"
+}

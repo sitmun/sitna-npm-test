@@ -1,0 +1,23 @@
+{
+  "accuracy": 5,
+  "area": "Senegal - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    16.7,
+    -20.22,
+    10.64,
+    -11.36
+  ],
+  "code": "63106405",
+  "default_trans": 6903,
+  "kind": "CRS-GEOGCRS",
+  "name": "Yoff (deg)",
+  "proj4": "",
+  "trans": [
+    1828,
+    6903,
+    8633
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

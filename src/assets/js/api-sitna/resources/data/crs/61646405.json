@@ -1,0 +1,23 @@
+{
+  "accuracy": 5,
+  "area": "Yemen - South Yemen onshore mainland.",
+  "authority": "EPSG",
+  "bbox": [
+    19,
+    43.37,
+    12.54,
+    53.14
+  ],
+  "code": "61646405",
+  "default_trans": 1682,
+  "kind": "CRS-GEOGCRS",
+  "name": "South Yemen (deg)",
+  "proj4": "",
+  "trans": [
+    1539,
+    1682,
+    8530
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "China - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    53.56,
+    73.62,
+    16.7,
+    134.77
+  ],
+  "code": "5704",
+  "default_trans": 0,
+  "kind": "CRS-VERTCRS",
+  "name": "Yellow Sea",
+  "proj4": "+vunits=m +no_defs +type=crs",
+  "trans": [],
+  "unit": "metre",
+  "wkt": "VERT_CS[\"Yellow Sea\",VERT_DATUM[\"Yellow Sea 1956\",2005,AUTHORITY[\"EPSG\",\"5104\"]],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Gravity-related height\",UP],AUTHORITY[\"EPSG\",\"5704\"]]"
+}

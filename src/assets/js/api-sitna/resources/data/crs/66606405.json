@@ -1,0 +1,21 @@
+{
+  "accuracy": 1,
+  "area": "Jan Mayen - onshore.",
+  "authority": "EPSG",
+  "bbox": [
+    71.24,
+    -9.17,
+    70.75,
+    -7.87
+  ],
+  "code": "66606405",
+  "default_trans": 1957,
+  "kind": "CRS-GEOGCRS",
+  "name": "Helle 1954 (deg)",
+  "proj4": "",
+  "trans": [
+    1957
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

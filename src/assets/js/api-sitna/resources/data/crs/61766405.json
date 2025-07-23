@@ -1,0 +1,21 @@
+{
+  "accuracy": 1,
+  "area": "Antarctica between 45°E and 136°E and between 142°E and 160°E - Australian sector.",
+  "authority": "EPSG",
+  "bbox": [
+    -60,
+    45,
+    -90,
+    160
+  ],
+  "code": "61766405",
+  "default_trans": 1890,
+  "kind": "CRS-GEOGCRS",
+  "name": "Australian Antarctic (deg)",
+  "proj4": "",
+  "trans": [
+    1890
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

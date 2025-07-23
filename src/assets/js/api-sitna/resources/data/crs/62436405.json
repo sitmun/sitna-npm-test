@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "Bangladesh - onshore; India - mainland onshore; Myanmar (Burma) - onshore; Pakistan - onshore.",
+  "authority": "EPSG",
+  "bbox": [
+    37.07,
+    60.86,
+    8.02,
+    101.17
+  ],
+  "code": "62436405",
+  "default_trans": 0,
+  "kind": "CRS-GEOGCRS",
+  "name": "Kalianpur 1880 (deg)",
+  "proj4": "",
+  "trans": [],
+  "unit": "degree",
+  "wkt": ""
+}

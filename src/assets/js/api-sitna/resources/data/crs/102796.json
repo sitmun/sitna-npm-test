@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "Colombia - Cali - Valle del Cauca",
+  "authority": "ESRI",
+  "bbox": [
+    3.95,
+    -77.03333333333333,
+    2.933333333333334,
+    -76.01666666666667
+  ],
+  "code": "102796",
+  "default_trans": 0,
+  "kind": "CRS-PROJCRS",
+  "name": "MAGNA Cali Valle del Cauca 2009",
+  "proj4": "+proj=col_urban +lat_0=3.44188333333333 +lon_0=-76.5205625 +x_0=1061900.18 +y_0=872364.63 +h_0=1000 +ellps=GRS80 +units=m +no_defs +type=crs",
+  "trans": [],
+  "unit": "",
+  "wkt": ""
+}

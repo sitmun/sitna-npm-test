@@ -1,0 +1,21 @@
+{
+  "accuracy": "",
+  "area": "Qatar - onshore.",
+  "authority": "EPSG",
+  "bbox": [
+    26.2,
+    50.69,
+    24.55,
+    51.68
+  ],
+  "code": "66146405",
+  "default_trans": 1840,
+  "kind": "CRS-GEOGCRS",
+  "name": "QND95 (deg)",
+  "proj4": "",
+  "trans": [
+    1840
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

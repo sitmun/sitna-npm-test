@@ -1,0 +1,23 @@
+{
+  "accuracy": 1,
+  "area": "Russian Federation - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    85.19,
+    18.92,
+    39.87,
+    -168.97
+  ],
+  "code": "62006405",
+  "default_trans": 5043,
+  "kind": "CRS-GEOGCRS",
+  "name": "Pulkovo 1995 (deg)",
+  "proj4": "",
+  "trans": [
+    1257,
+    1281,
+    5043
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

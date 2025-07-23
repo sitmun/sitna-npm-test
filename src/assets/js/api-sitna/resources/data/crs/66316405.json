@@ -1,0 +1,21 @@
+{
+  "accuracy": "",
+  "area": "French Southern Territories - Kerguelen onshore.",
+  "authority": "EPSG",
+  "bbox": [
+    -48.6,
+    68.69,
+    -49.78,
+    70.62
+  ],
+  "code": "66316405",
+  "default_trans": 0,
+  "kind": "CRS-GEOGCRS",
+  "name": "K0 1949 (deg)",
+  "proj4": "",
+  "trans": [
+    1915
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

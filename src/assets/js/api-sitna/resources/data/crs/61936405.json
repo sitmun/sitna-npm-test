@@ -1,0 +1,24 @@
+{
+  "accuracy": 0.5,
+  "area": "Cameroon - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    13.09,
+    8.32,
+    1.65,
+    16.21
+  ],
+  "code": "61936405",
+  "default_trans": 1796,
+  "kind": "CRS-GEOGCRS",
+  "name": "Manoca 1962 (deg)",
+  "proj4": "",
+  "trans": [
+    1796,
+    1902,
+    8646,
+    8655
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

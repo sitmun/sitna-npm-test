@@ -1,0 +1,21 @@
+{
+  "accuracy": 26,
+  "area": "Sierra Leone - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    10,
+    -16.57,
+    4.22,
+    -10.26
+  ],
+  "code": "61756405",
+  "default_trans": 1614,
+  "kind": "CRS-GEOGCRS",
+  "name": "Sierra Leone 1968 (deg)",
+  "proj4": "",
+  "trans": [
+    1614
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

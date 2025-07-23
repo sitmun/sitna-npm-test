@@ -1,0 +1,27 @@
+{
+  "accuracy": 1,
+  "area": "Sweden - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    69.07,
+    10.03,
+    54.96,
+    24.17
+  ],
+  "code": "61246405",
+  "default_trans": 1896,
+  "kind": "CRS-GEOGCRS",
+  "name": "RT90 (deg)",
+  "proj4": "",
+  "trans": [
+    1437,
+    1680,
+    1787,
+    1788,
+    1895,
+    1896,
+    8195
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

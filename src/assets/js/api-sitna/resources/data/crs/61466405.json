@@ -1,0 +1,21 @@
+{
+  "accuracy": 22,
+  "area": "India - onshore and offshore. Includes Amandivis, Laccadives, Minicoy, Andaman Islands, Nicobar Islands, and Sikkim.",
+  "authority": "EPSG",
+  "bbox": [
+    35.51,
+    65.6,
+    3.87,
+    97.42
+  ],
+  "code": "61466405",
+  "default_trans": 1156,
+  "kind": "CRS-GEOGCRS",
+  "name": "Kalianpur 1975 (deg)",
+  "proj4": "",
+  "trans": [
+    1156
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

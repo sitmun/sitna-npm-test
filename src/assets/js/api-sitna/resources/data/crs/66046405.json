@@ -1,0 +1,21 @@
+{
+  "accuracy": 44,
+  "area": "Montserrat - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    17.04,
+    -63.05,
+    15.84,
+    -61.82
+  ],
+  "code": "66046405",
+  "default_trans": 1444,
+  "kind": "CRS-GEOGCRS",
+  "name": "Montserrat 1958 (deg)",
+  "proj4": "",
+  "trans": [
+    1444
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

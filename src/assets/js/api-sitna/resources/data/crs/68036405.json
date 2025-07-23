@@ -1,0 +1,24 @@
+{
+  "accuracy": "",
+  "area": "Portugal - mainland - onshore.",
+  "authority": "EPSG",
+  "bbox": [
+    42.16,
+    -9.56,
+    36.95,
+    -6.19
+  ],
+  "code": "68036405",
+  "default_trans": 1756,
+  "kind": "CRS-GEOGCRS",
+  "name": "Lisbon (Lisbon) (deg)",
+  "proj4": "",
+  "trans": [
+    1259,
+    1756,
+    5838,
+    8637
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

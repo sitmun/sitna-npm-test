@@ -1,0 +1,31 @@
+{
+  "accuracy": 2,
+  "area": "New Caledonia - Grande Terre.",
+  "authority": "EPSG",
+  "bbox": [
+    -20.03,
+    163.92,
+    -22.45,
+    167.09
+  ],
+  "code": "66346405",
+  "default_trans": 15903,
+  "kind": "CRS-GEOGCRS",
+  "name": "IGN72 Grande Terre (deg)",
+  "proj4": "",
+  "trans": [
+    1962,
+    1963,
+    9329,
+    9330,
+    15882,
+    15887,
+    15888,
+    15903,
+    15945,
+    15946,
+    15947
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

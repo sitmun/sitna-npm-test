@@ -1,0 +1,24 @@
+{
+  "accuracy": 1,
+  "area": "Albania - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    42.67,
+    18.46,
+    39.63,
+    21.06
+  ],
+  "code": "61916405",
+  "default_trans": 7834,
+  "kind": "CRS-GEOGCRS",
+  "name": "Albanian 1987 (deg)",
+  "proj4": "",
+  "trans": [
+    6963,
+    6964,
+    7833,
+    7834
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

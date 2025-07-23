@@ -1,0 +1,30 @@
+{
+  "accuracy": "",
+  "area": "France - mainland onshore south of 50.5 grads North (45°27'N).",
+  "authority": "EPSG",
+  "bbox": [
+    45.46,
+    -1.79,
+    42.33,
+    7.71
+  ],
+  "code": "27593",
+  "default_trans": 1763,
+  "kind": "CRS-PROJCRS",
+  "name": "NTF (Paris) / Sud France",
+  "proj4": "+proj=lcc +lat_1=44.1 +lat_0=44.1 +lon_0=0 +k_0=0.999877499 +x_0=600000 +y_0=200000 +ellps=clrk80ign +pm=paris +units=m +no_defs +type=crs",
+  "trans": [
+    1467,
+    1468,
+    1763,
+    1764,
+    7810,
+    7811,
+    8094,
+    8186,
+    8188,
+    9337
+  ],
+  "unit": "metre",
+  "wkt": ""
+}

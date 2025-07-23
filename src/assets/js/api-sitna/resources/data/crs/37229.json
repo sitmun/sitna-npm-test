@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "Pacific - Marshall Islands, Wake - onshore",
+  "authority": "ESRI",
+  "bbox": [
+    19.38,
+    162.27,
+    8.66,
+    167.82
+  ],
+  "code": "37229",
+  "default_trans": 0,
+  "kind": "CRS-GEOGCRS",
+  "name": "Wake-Eniwetok 1960 (Marshall Islands 1960)",
+  "proj4": "+proj=longlat +ellps=hough +no_defs +type=crs",
+  "trans": [],
+  "unit": "",
+  "wkt": "GEOGCS[\"GCS_Wake_Eniwetok_1960 (deprecated)\",DATUM[\"D_Wake_Eniwetok_1960\",SPHEROID[\"Hough 1960\",6378270,297,AUTHORITY[\"EPSG\",\"7053\"]],AUTHORITY[\"ESRI\",\"106229\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"ESRI\",\"37229\"]]"
+}

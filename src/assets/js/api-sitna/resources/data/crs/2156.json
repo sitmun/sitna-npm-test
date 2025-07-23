@@ -1,0 +1,35 @@
+{
+  "accuracy": 2,
+  "area": "American Samoa - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    -10.02,
+    -173.75,
+    -17.56,
+    -165.2
+  ],
+  "code": "2156",
+  "default_trans": 1580,
+  "kind": "CRS-PROJCRS",
+  "name": "NAD83(HARN) / UTM zone 59S",
+  "proj4": "+proj=utm +zone=59 +south +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs",
+  "trans": [
+    1580,
+    1900,
+    1901,
+    4461,
+    8551,
+    8557,
+    8661,
+    8663,
+    8666,
+    8670,
+    8861,
+    8863,
+    8865,
+    9181,
+    15930
+  ],
+  "unit": "metre",
+  "wkt": "PROJCS[\"NAD83(HARN) / UTM zone 59S\",GEOGCS[\"NAD83(HARN)\",DATUM[\"NAD83_High_Accuracy_Reference_Network\",SPHEROID[\"GRS 1980\",6378137,298.257222101],TOWGS84[0,0,0,0,0,0,0]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4152\"]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",171],PARAMETER[\"scale_factor\",0.9996],PARAMETER[\"false_easting\",500000],PARAMETER[\"false_northing\",10000000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"EPSG\",\"2156\"]]"
+}

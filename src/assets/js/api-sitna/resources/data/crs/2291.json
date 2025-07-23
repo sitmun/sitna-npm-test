@@ -1,0 +1,41 @@
+{
+  "accuracy": 1.5,
+  "area": "Canada - Prince Edward Island.",
+  "authority": "EPSG",
+  "bbox": [
+    47.09,
+    -64.49,
+    45.9,
+    -61.9
+  ],
+  "code": "2291",
+  "default_trans": 1688,
+  "kind": "CRS-PROJCRS",
+  "name": "NAD83(CSRS98) / Prince Edward Isl. Stereographic (NAD83)",
+  "proj4": "+proj=sterea +lat_0=47.25 +lon_0=-63 +k=0.999912 +x_0=400000 +y_0=800000 +a=6378135 +rf=298.257 +nadgrids=ca_nrc_NB7783v2.tif +units=m +no_defs +type=crs",
+  "trans": [
+    1472,
+    1599,
+    1606,
+    1607,
+    1608,
+    1688,
+    1689,
+    1841,
+    1846,
+    1850,
+    1851,
+    1947,
+    1948,
+    1949,
+    8418,
+    8419,
+    9105,
+    9106,
+    9235,
+    9236,
+    9237
+  ],
+  "unit": "metre",
+  "wkt": "PROJCS[\"NAD83(CSRS98) / Prince Edward Isl. Stereographic (NAD83)\",GEOGCS[\"ATS77\",DATUM[\"Average_Terrestrial_System_1977\",SPHEROID[\"Average Terrestrial System 1977\",6378135,298.257],EXTENSION[\"PROJ4_GRIDS\",\"ca_nrc_NB7783v2.tif\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4122\"]],PROJECTION[\"Oblique_Stereographic\"],PARAMETER[\"latitude_of_origin\",47.25],PARAMETER[\"central_meridian\",-63],PARAMETER[\"scale_factor\",0.999912],PARAMETER[\"false_easting\",400000],PARAMETER[\"false_northing\",800000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"EPSG\",\"2291\"]]"
+}

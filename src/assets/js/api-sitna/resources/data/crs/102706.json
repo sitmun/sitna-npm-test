@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "Asia - Middle East - Israel, Jordan and Palestine onshore",
+  "authority": "ESRI",
+  "bbox": [
+    33.38,
+    34.17,
+    29.18,
+    39.31
+  ],
+  "code": "102706",
+  "default_trans": 0,
+  "kind": "CRS-PROJCRS",
+  "name": "Palestine 1923 Palestine Grid TM",
+  "proj4": "+proj=tmerc +lat_0=31.7340969444444 +lon_0=35.2120805555556 +k=1 +x_0=170251.555 +y_0=126867.909 +a=6378300.789 +b=6356566.435 +units=m +no_defs +type=crs",
+  "trans": [],
+  "unit": "",
+  "wkt": "PROJCS[\"Palestine_1923_Palestine_Grid_TM (deprecated)\",GEOGCS[\"Palestine 1923\",DATUM[\"Palestine_1923\",SPHEROID[\"Clarke 1880 (Benoit)\",6378300.789,293.466315538981,AUTHORITY[\"EPSG\",\"7010\"]],AUTHORITY[\"EPSG\",\"6281\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4281\"]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",31.7340969444444],PARAMETER[\"central_meridian\",35.2120805555556],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",170251.555],PARAMETER[\"false_northing\",126867.909],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"ESRI\",\"102706\"]]"
+}

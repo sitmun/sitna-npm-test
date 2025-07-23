@@ -1,0 +1,22 @@
+{
+  "accuracy": 10,
+  "area": "Romania - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    48.27,
+    20.26,
+    43.44,
+    31.41
+  ],
+  "code": "63166405",
+  "default_trans": 1995,
+  "kind": "CRS-GEOGCRS",
+  "name": "Dealul Piscului 1933 (deg)",
+  "proj4": "",
+  "trans": [
+    1789,
+    1995
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

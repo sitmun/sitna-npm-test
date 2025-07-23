@@ -1,0 +1,35 @@
+{
+  "accuracy": 44,
+  "area": "Arabian Gulf; Qatar - offshore; United Arab Emirates (UAE) - Abu Dhabi; Dubai; Sharjah; Ajman; Fujairah; Ras Al Kaimah; Umm Al Qaiwain - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    27.05,
+    50.55,
+    22.63,
+    57.13
+  ],
+  "code": "62706405",
+  "default_trans": 1191,
+  "kind": "CRS-GEOGCRS",
+  "name": "Nahrwan 1967 (deg)",
+  "proj4": "",
+  "trans": [
+    1189,
+    1190,
+    1191,
+    1531,
+    1536,
+    6998,
+    6999,
+    7002,
+    7003,
+    7004,
+    15871,
+    15937,
+    15938,
+    15952,
+    15953
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

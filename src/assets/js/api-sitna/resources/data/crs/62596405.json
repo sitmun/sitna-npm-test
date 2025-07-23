@@ -1,0 +1,25 @@
+{
+  "accuracy": 5,
+  "area": "Angola - Cabinda offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    -5.05,
+    10.53,
+    -6.04,
+    12.18
+  ],
+  "code": "62596405",
+  "default_trans": 1557,
+  "kind": "CRS-GEOGCRS",
+  "name": "Malongo 1987 (deg)",
+  "proj4": "",
+  "trans": [
+    1328,
+    1330,
+    1557,
+    9906,
+    15791
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

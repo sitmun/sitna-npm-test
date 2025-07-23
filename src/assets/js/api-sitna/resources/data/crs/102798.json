@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "Colombia - Puerto - Carreno - Vichada",
+  "authority": "ESRI",
+  "bbox": [
+    6.683333333333334,
+    -68.01666666666667,
+    5.666666666666667,
+    -67
+  ],
+  "code": "102798",
+  "default_trans": 0,
+  "kind": "CRS-PROJCRS",
+  "name": "MAGNA Puerto Carreno Vichada 2011",
+  "proj4": "+proj=col_urban +lat_0=6.18072141388889 +lon_0=-67.5007502472222 +x_0=1063834.703 +y_0=1175257.481 +h_0=51.58 +ellps=GRS80 +units=m +no_defs +type=crs",
+  "trans": [],
+  "unit": "",
+  "wkt": ""
+}

@@ -1,0 +1,22 @@
+{
+  "accuracy": 2,
+  "area": "Côte d'Ivoire (Ivory Coast) - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    10.74,
+    -8.61,
+    1.02,
+    -2.48
+  ],
+  "code": "61436405",
+  "default_trans": 1470,
+  "kind": "CRS-GEOGCRS",
+  "name": "Abidjan 1987 (deg)",
+  "proj4": "",
+  "trans": [
+    1470,
+    6872
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

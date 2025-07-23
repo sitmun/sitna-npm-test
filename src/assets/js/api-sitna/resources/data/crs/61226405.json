@@ -1,0 +1,41 @@
+{
+  "accuracy": 1.5,
+  "area": "Canada - New Brunswick; Nova Scotia; Prince Edward Island.",
+  "authority": "EPSG",
+  "bbox": [
+    48.07,
+    -69.05,
+    43.41,
+    -59.73
+  ],
+  "code": "61226405",
+  "default_trans": 1688,
+  "kind": "CRS-GEOGCRS",
+  "name": "ATS77 (deg)",
+  "proj4": "",
+  "trans": [
+    1472,
+    1599,
+    1606,
+    1607,
+    1608,
+    1688,
+    1689,
+    1841,
+    1846,
+    1850,
+    1851,
+    1947,
+    1948,
+    1949,
+    8418,
+    8419,
+    9105,
+    9106,
+    9235,
+    9236,
+    9237
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

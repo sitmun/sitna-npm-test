@@ -1,0 +1,21 @@
+{
+  "accuracy": 1,
+  "area": "Yemen - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    19,
+    41.08,
+    8.95,
+    57.96
+  ],
+  "code": "61636405",
+  "default_trans": 1540,
+  "kind": "CRS-GEOGCRS",
+  "name": "Yemen NGN96 (deg)",
+  "proj4": "",
+  "trans": [
+    1540
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

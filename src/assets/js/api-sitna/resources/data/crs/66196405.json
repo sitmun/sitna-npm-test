@@ -1,0 +1,22 @@
+{
+  "accuracy": 1,
+  "area": "Sweden - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    69.07,
+    10.03,
+    54.96,
+    24.17
+  ],
+  "code": "66196405",
+  "default_trans": 1879,
+  "kind": "CRS-GEOGCRS",
+  "name": "SWEREF99 (deg)",
+  "proj4": "",
+  "trans": [
+    1878,
+    1879
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

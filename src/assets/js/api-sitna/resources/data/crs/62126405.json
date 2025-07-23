@@ -1,0 +1,21 @@
+{
+  "accuracy": 3,
+  "area": "Barbados - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    16,
+    -60.39,
+    10.68,
+    -55.99
+  ],
+  "code": "62126405",
+  "default_trans": 15793,
+  "kind": "CRS-GEOGCRS",
+  "name": "Barbados 1938 (deg)",
+  "proj4": "",
+  "trans": [
+    15793
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

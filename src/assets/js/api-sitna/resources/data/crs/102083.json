@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "Korea, Republic of (South Korea) - 128~E to 130~E onshore",
+  "authority": "ESRI",
+  "bbox": [
+    38.64,
+    128,
+    34.49,
+    129.65
+  ],
+  "code": "102083",
+  "default_trans": 0,
+  "kind": "CRS-PROJCRS",
+  "name": "KGD2002 East Belt 2010",
+  "proj4": "+proj=tmerc +lat_0=38 +lon_0=129 +k=1 +x_0=200000 +y_0=600000 +ellps=GRS80 +units=m +no_defs +type=crs",
+  "trans": [],
+  "unit": "",
+  "wkt": "PROJCS[\"KGD2002_East_Belt_2010 (deprecated)\",GEOGCS[\"KGD2002\",DATUM[\"Korean_Geodetic_Datum_2002\",SPHEROID[\"GRS 1980\",6378137,298.257222101,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6737\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4737\"]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",38],PARAMETER[\"central_meridian\",129],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",200000],PARAMETER[\"false_northing\",600000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"ESRI\",\"102083\"]]"
+}

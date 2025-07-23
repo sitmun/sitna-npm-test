@@ -1,0 +1,23 @@
+{
+  "accuracy": 0.1,
+  "area": "Martinique - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    16.36,
+    -62.82,
+    14.08,
+    -57.52
+  ],
+  "code": "66256405",
+  "default_trans": 1910,
+  "kind": "CRS-GEOGCRS",
+  "name": "Fort Desaix (deg)",
+  "proj4": "",
+  "trans": [
+    1909,
+    1910,
+    5491
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

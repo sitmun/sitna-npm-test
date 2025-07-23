@@ -1,0 +1,24 @@
+{
+  "accuracy": 3,
+  "area": "Indonesia - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    7.79,
+    92.01,
+    -13.95,
+    141.46
+  ],
+  "code": "62386405",
+  "default_trans": 1833,
+  "kind": "CRS-GEOGCRS",
+  "name": "ID74 (deg)",
+  "proj4": "",
+  "trans": [
+    1248,
+    1832,
+    1833,
+    15911
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

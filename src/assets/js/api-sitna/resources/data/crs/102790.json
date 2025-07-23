@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "Colombia - Armenia - Quindio",
+  "authority": "ESRI",
+  "bbox": [
+    5.033333333333333,
+    -76.18333333333334,
+    4.016666666666667,
+    -75.16666666666667
+  ],
+  "code": "102790",
+  "default_trans": 0,
+  "kind": "CRS-PROJCRS",
+  "name": "MAGNA Armenia Quindio 2006",
+  "proj4": "+proj=col_urban +lat_0=4.532325 +lon_0=-75.6734891666667 +x_0=1155824.666 +y_0=993087.465 +h_0=1470 +ellps=GRS80 +units=m +no_defs +type=crs",
+  "trans": [],
+  "unit": "",
+  "wkt": ""
+}

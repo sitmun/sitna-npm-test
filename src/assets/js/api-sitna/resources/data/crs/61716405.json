@@ -1,0 +1,25 @@
+{
+  "accuracy": 1,
+  "area": "France - onshore and offshore, mainland and Corsica (France métropolitaine including Corsica).",
+  "authority": "EPSG",
+  "bbox": [
+    51.56,
+    -9.86,
+    41.15,
+    10.38
+  ],
+  "code": "61716405",
+  "default_trans": 1671,
+  "kind": "CRS-GEOGCRS",
+  "name": "RGF93 (deg)",
+  "proj4": "",
+  "trans": [
+    1591,
+    1671,
+    8573,
+    9882,
+    15958
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

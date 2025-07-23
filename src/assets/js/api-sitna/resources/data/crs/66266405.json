@@ -1,0 +1,23 @@
+{
+  "accuracy": 44,
+  "area": "Reunion - onshore and offshore - Reunion island, Ile Europa, Bassas da India, Juan de Nova, Iles Glorieuses, and Ile Tromelin.",
+  "authority": "EPSG",
+  "bbox": [
+    -10.6,
+    37.58,
+    -25.92,
+    58.27
+  ],
+  "code": "66266405",
+  "default_trans": 15751,
+  "kind": "CRS-GEOGCRS",
+  "name": "Piton des Neiges (deg)",
+  "proj4": "",
+  "trans": [
+    1911,
+    1926,
+    15751
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

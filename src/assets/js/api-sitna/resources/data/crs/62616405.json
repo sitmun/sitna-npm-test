@@ -1,0 +1,21 @@
+{
+  "accuracy": 7,
+  "area": "Morocco - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    36,
+    -13.86,
+    27.66,
+    -1.01
+  ],
+  "code": "62616405",
+  "default_trans": 1166,
+  "kind": "CRS-GEOGCRS",
+  "name": "Merchich (deg)",
+  "proj4": "",
+  "trans": [
+    1166
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

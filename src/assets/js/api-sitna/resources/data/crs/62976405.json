@@ -1,0 +1,22 @@
+{
+  "accuracy": 3,
+  "area": "Madagascar - onshore and nearshore.",
+  "authority": "EPSG",
+  "bbox": [
+    -11.69,
+    42.53,
+    -26.59,
+    51.03
+  ],
+  "code": "62976405",
+  "default_trans": 6873,
+  "kind": "CRS-GEOGCRS",
+  "name": "Tananarive (deg)",
+  "proj4": "",
+  "trans": [
+    1227,
+    6873
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

@@ -1,0 +1,33 @@
+{
+  "accuracy": 2,
+  "area": "France - onshore.",
+  "authority": "EPSG",
+  "bbox": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "code": "62756405",
+  "default_trans": 1193,
+  "kind": "CRS-GEOGCRS",
+  "name": "NTF (deg)",
+  "proj4": "",
+  "trans": [
+    1053,
+    1054,
+    1193,
+    1276,
+    1277,
+    1651,
+    9327,
+    9888,
+    9889,
+    15939,
+    15940,
+    15941,
+    15942
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

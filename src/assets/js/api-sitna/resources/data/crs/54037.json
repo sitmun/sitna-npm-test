@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "World",
+  "authority": "ESRI",
+  "bbox": [
+    90,
+    -180,
+    -90,
+    180
+  ],
+  "code": "54037",
+  "default_trans": 0,
+  "kind": "CRS-PROJCRS",
+  "name": "Equal Earth Asia-Pacific",
+  "proj4": "+proj=eqearth +lon_0=150 +x_0=0 +y_0=0 +datum=WGS84 +units=m +no_defs +type=crs",
+  "trans": [],
+  "unit": "",
+  "wkt": ""
+}

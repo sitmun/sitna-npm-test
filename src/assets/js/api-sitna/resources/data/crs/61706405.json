@@ -1,0 +1,22 @@
+{
+  "accuracy": 2,
+  "area": "South America - Argentina, Brazil, Bolivia, Chile, Colombia, Ecuador, French Guiana, Guyana, Paraguay, Peru, Suriname, Uruguay, Venezuela.",
+  "authority": "EPSG",
+  "bbox": [
+    13,
+    -82,
+    -56.15,
+    -34
+  ],
+  "code": "61706405",
+  "default_trans": 1581,
+  "kind": "CRS-GEOGCRS",
+  "name": "SIRGAS (deg)",
+  "proj4": "",
+  "trans": [
+    1581,
+    9979
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

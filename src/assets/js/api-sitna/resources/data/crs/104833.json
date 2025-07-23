@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "USA - Wisconsin",
+  "authority": "ESRI",
+  "bbox": [
+    47.31,
+    -92.89,
+    42.48,
+    -86.25
+  ],
+  "code": "104833",
+  "default_trans": 0,
+  "kind": "CRS-GEOGCRS",
+  "name": "NAD 1983 HARN Adj. Wisconsin Langlade",
+  "proj4": "+proj=longlat +a=6378560.121 +rf=298.277008268831 +no_defs +type=crs",
+  "trans": [],
+  "unit": "",
+  "wkt": "GEOGCS[\"GCS_NAD_1983_HARN_Adj_WI_Langlade (deprecated)\",DATUM[\"D_NAD_1983_HARN_Adj_WI_LG\",SPHEROID[\"GRS_1980_Adj_WI_LG\",6378560.121,298.277008268831,AUTHORITY[\"ESRI\",\"107822\"]],AUTHORITY[\"ESRI\",\"106822\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"ESRI\",\"104833\"]]"
+}

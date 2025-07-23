@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "Qatar - onshore.",
+  "authority": "EPSG",
+  "bbox": [
+    26.2,
+    50.69,
+    24.55,
+    51.68
+  ],
+  "code": "62866405",
+  "default_trans": 0,
+  "kind": "CRS-GEOGCRS",
+  "name": "Qatar 1948 (deg)",
+  "proj4": "",
+  "trans": [],
+  "unit": "degree",
+  "wkt": ""
+}

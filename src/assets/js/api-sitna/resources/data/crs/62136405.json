@@ -1,0 +1,23 @@
+{
+  "accuracy": 15,
+  "area": "Niger - southeast",
+  "authority": "EPSG",
+  "bbox": [
+    16.7,
+    7.81,
+    12.8,
+    14.9
+  ],
+  "code": "62136405",
+  "default_trans": 15849,
+  "kind": "CRS-GEOGCRS",
+  "name": "Beduaram (deg)",
+  "proj4": "",
+  "trans": [
+    1839,
+    8634,
+    15849
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

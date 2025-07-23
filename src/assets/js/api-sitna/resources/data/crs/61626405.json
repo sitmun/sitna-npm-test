@@ -1,0 +1,22 @@
+{
+  "accuracy": 1,
+  "area": "Republic of Korea (South Korea) - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    40.27,
+    122.71,
+    28.6,
+    134.28
+  ],
+  "code": "61626405",
+  "default_trans": 5191,
+  "kind": "CRS-GEOGCRS",
+  "name": "Korean 1985 (deg)",
+  "proj4": "",
+  "trans": [
+    5189,
+    5191
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

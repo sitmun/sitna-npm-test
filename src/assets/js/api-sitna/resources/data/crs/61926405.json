@@ -1,0 +1,21 @@
+{
+  "accuracy": 10,
+  "area": "Cameroon - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    13.09,
+    8.32,
+    1.65,
+    16.21
+  ],
+  "code": "61926405",
+  "default_trans": 15873,
+  "kind": "CRS-GEOGCRS",
+  "name": "Douala 1948 (deg)",
+  "proj4": "",
+  "trans": [
+    15873
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

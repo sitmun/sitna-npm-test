@@ -1,0 +1,22 @@
+{
+  "accuracy": 5,
+  "area": "Cameroon - N'Djamena area.",
+  "authority": "EPSG",
+  "bbox": [
+    12.77,
+    14.17,
+    11.7,
+    15.09
+  ],
+  "code": "61986405",
+  "default_trans": 1806,
+  "kind": "CRS-GEOGCRS",
+  "name": "Kousseri (deg)",
+  "proj4": "",
+  "trans": [
+    1806,
+    8632
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

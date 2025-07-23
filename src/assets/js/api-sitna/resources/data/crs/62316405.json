@@ -1,0 +1,24 @@
+{
+  "accuracy": 1,
+  "area": "Europe - west.",
+  "authority": "EPSG",
+  "bbox": [
+    84.73,
+    -10.56,
+    34.88,
+    38.01
+  ],
+  "code": "62316405",
+  "default_trans": 3905,
+  "kind": "CRS-GEOGCRS",
+  "name": "ED87 (deg)",
+  "proj4": "",
+  "trans": [
+    1146,
+    1960,
+    3905,
+    4078
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

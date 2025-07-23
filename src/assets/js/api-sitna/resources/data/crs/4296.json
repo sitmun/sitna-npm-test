@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "Sudan - south.",
+  "authority": "EPSG",
+  "bbox": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "code": "4296",
+  "default_trans": 0,
+  "kind": "CRS-GEOGCRS",
+  "name": "Sudan",
+  "proj4": "+proj=longlat +ellps=clrk80ign +no_defs +type=crs",
+  "trans": [],
+  "unit": "degree minute second hemisphere",
+  "wkt": "GEOGCS[\"Sudan (deprecated)\",DATUM[\"Sudan\",SPHEROID[\"Clarke 1880 (IGN)\",6378249.2,293.466021293627,AUTHORITY[\"EPSG\",\"7011\"]],AUTHORITY[\"EPSG\",\"6296\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree minute second hemisphere\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9108\"]],AUTHORITY[\"EPSG\",\"4296\"]]"
+}

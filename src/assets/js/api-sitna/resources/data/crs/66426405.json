@@ -1,0 +1,23 @@
+{
+  "accuracy": 10,
+  "area": "New Caledonia - Ile des Pins.",
+  "authority": "EPSG",
+  "bbox": [
+    -22.49,
+    167.36,
+    -22.73,
+    167.61
+  ],
+  "code": "66426405",
+  "default_trans": 15848,
+  "kind": "CRS-GEOGCRS",
+  "name": "ST84 Ile des Pins (deg)",
+  "proj4": "",
+  "trans": [
+    1930,
+    15848,
+    15893
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

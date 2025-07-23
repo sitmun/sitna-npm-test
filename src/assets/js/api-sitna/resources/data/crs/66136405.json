@@ -1,0 +1,24 @@
+{
+  "accuracy": 999,
+  "area": "Indonesia - Kalimantan - onshore east coastal area including Mahakam delta coastal and offshore shelf areas.",
+  "authority": "EPSG",
+  "bbox": [
+    4.29,
+    114.55,
+    -4.24,
+    119.06
+  ],
+  "code": "66136405",
+  "default_trans": 1897,
+  "kind": "CRS-GEOGCRS",
+  "name": "Segara (deg)",
+  "proj4": "",
+  "trans": [
+    1838,
+    1897,
+    1898,
+    1899
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

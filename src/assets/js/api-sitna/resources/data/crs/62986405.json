@@ -1,0 +1,28 @@
+{
+  "accuracy": 19,
+  "area": "Brunei - onshore and offshore; Malaysia - East Malaysia (Sabah; Sarawak) - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    7.67,
+    109.31,
+    0.85,
+    119.61
+  ],
+  "code": "62986405",
+  "default_trans": 1228,
+  "kind": "CRS-GEOGCRS",
+  "name": "Timbalai 1948 (deg)",
+  "proj4": "",
+  "trans": [
+    1228,
+    1592,
+    1615,
+    1852,
+    5248,
+    5249,
+    5878,
+    6902
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

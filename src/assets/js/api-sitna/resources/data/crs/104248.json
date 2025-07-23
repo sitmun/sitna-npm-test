@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "China - Macao",
+  "authority": "ESRI",
+  "bbox": [
+    22.23,
+    113.52,
+    22.06,
+    113.68
+  ],
+  "code": "104248",
+  "default_trans": 0,
+  "kind": "CRS-GEOGCRS",
+  "name": "Macao 2008 (ITRF 2005)",
+  "proj4": "+proj=longlat +ellps=intl +no_defs +type=crs",
+  "trans": [],
+  "unit": "",
+  "wkt": "GEOGCS[\"GCS_MACAO_2008 (deprecated)\",DATUM[\"D_MACAO_2008\",SPHEROID[\"International 1924\",6378388,297,AUTHORITY[\"EPSG\",\"7022\"]],AUTHORITY[\"ESRI\",\"106248\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"ESRI\",\"104248\"]]"
+}

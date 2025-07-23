@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "Ireland - onshore. United Kingdom (UK) - onshore - England; Scotland; Wales; Northern Ireland. Isle of Man.",
+  "authority": "EPSG",
+  "bbox": [
+    60.9,
+    -10.56,
+    49.81,
+    1.84
+  ],
+  "code": "62796405",
+  "default_trans": 0,
+  "kind": "CRS-GEOGCRS",
+  "name": "OS(SN)80 (deg)",
+  "proj4": "",
+  "trans": [],
+  "unit": "degree",
+  "wkt": ""
+}

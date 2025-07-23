@@ -1,0 +1,22 @@
+{
+  "accuracy": 44,
+  "area": "Portugal - Selvagens islands (Madeira province) - onshore.",
+  "authority": "EPSG",
+  "bbox": [
+    30.21,
+    -16.11,
+    29.98,
+    -15.79
+  ],
+  "code": "66166405",
+  "default_trans": 1965,
+  "kind": "CRS-GEOGCRS",
+  "name": "Selvagem Grande (deg)",
+  "proj4": "",
+  "trans": [
+    1889,
+    1965
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

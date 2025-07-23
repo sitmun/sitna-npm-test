@@ -1,0 +1,36 @@
+{
+  "accuracy": 17,
+  "area": "Mozambique - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    -10.09,
+    30.21,
+    -27.71,
+    43.03
+  ],
+  "code": "61276405",
+  "default_trans": 6901,
+  "kind": "CRS-GEOGCRS",
+  "name": "Tete (deg)",
+  "proj4": "",
+  "trans": [
+    1297,
+    1298,
+    1299,
+    1300,
+    1301,
+    1683,
+    1684,
+    1685,
+    1686,
+    1687,
+    6901,
+    8215,
+    8217,
+    8219,
+    8221,
+    8223
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

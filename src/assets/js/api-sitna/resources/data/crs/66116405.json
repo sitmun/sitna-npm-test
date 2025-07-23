@@ -1,0 +1,23 @@
+{
+  "accuracy": 1,
+  "area": "China - Hong Kong - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    22.58,
+    113.76,
+    22.13,
+    114.51
+  ],
+  "code": "66116405",
+  "default_trans": 1825,
+  "kind": "CRS-GEOGCRS",
+  "name": "Hong Kong 1980 (deg)",
+  "proj4": "",
+  "trans": [
+    1825,
+    8437,
+    9913
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

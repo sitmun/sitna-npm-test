@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "Colombia - Villavicencio - Meta",
+  "authority": "ESRI",
+  "bbox": [
+    4.666666666666667,
+    -74.13333333333334,
+    3.65,
+    -73.11666666666666
+  ],
+  "code": "102786",
+  "default_trans": 0,
+  "kind": "CRS-PROJCRS",
+  "name": "MAGNA Villavicencio Meta 2011",
+  "proj4": "+proj=col_urban +lat_0=4.1553751 +lon_0=-73.6244859861111 +x_0=1050678.757 +y_0=950952.124 +h_0=427.19 +ellps=GRS80 +units=m +no_defs +type=crs",
+  "trans": [],
+  "unit": "",
+  "wkt": ""
+}

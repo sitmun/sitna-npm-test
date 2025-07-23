@@ -1,0 +1,21 @@
+{
+  "accuracy": 1,
+  "area": "Kuwait - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    30.09,
+    46.54,
+    28.53,
+    49.53
+  ],
+  "code": "62466405",
+  "default_trans": 1059,
+  "kind": "CRS-GEOGCRS",
+  "name": "KOC (deg)",
+  "proj4": "",
+  "trans": [
+    1059
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "Canada south of 60°N - Alberta, British Columbia (BC), Manitoba, New Brunswick (NB), Newfoundland and Labrador, Nova Scotia (NS), Ontario, Prince Edward Island (PEI), Quebec and Saskatchewan.",
+  "authority": "EPSG",
+  "bbox": [
+    60,
+    -139.05,
+    41.68,
+    -52.62
+  ],
+  "code": "4359",
+  "default_trans": 0,
+  "kind": "CRS-GEOG3DCRS",
+  "name": "NAD83(CSRS) (3D)",
+  "proj4": "+proj=longlat +ellps=GRS80 +no_defs +type=crs",
+  "trans": [],
+  "unit": "degree minute second hemisphere",
+  "wkt": ""
+}

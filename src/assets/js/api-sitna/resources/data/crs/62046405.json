@@ -1,0 +1,29 @@
+{
+  "accuracy": 18,
+  "area": "Bahrain, Kuwait and Saudi Arabia - onshore.",
+  "authority": "EPSG",
+  "bbox": [
+    32.16,
+    34.51,
+    16.37,
+    55.67
+  ],
+  "code": "62046405",
+  "default_trans": 1111,
+  "kind": "CRS-GEOGCRS",
+  "name": "Ain el Abd (deg)",
+  "proj4": "",
+  "trans": [
+    1055,
+    1056,
+    1057,
+    1058,
+    1110,
+    1111,
+    8824,
+    9362,
+    9363
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

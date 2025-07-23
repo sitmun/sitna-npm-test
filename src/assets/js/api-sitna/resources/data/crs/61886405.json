@@ -1,0 +1,21 @@
+{
+  "accuracy": 1,
+  "area": "United Kingdom (UK) - Northern Ireland (Ulster) - onshore.",
+  "authority": "EPSG",
+  "bbox": [
+    55.36,
+    -8.18,
+    53.96,
+    -5.34
+  ],
+  "code": "61886405",
+  "default_trans": 1955,
+  "kind": "CRS-GEOGCRS",
+  "name": "OSNI 1952 (deg)",
+  "proj4": "",
+  "trans": [
+    1955
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

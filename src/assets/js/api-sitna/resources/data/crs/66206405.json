@@ -1,0 +1,21 @@
+{
+  "accuracy": 44,
+  "area": "Senegal - central, Mali - southwest, Burkina Faso - central, Niger - southwest, Nigeria - north, Chad - central. All in proximity to the parallel of latitude of 12°N.",
+  "authority": "EPSG",
+  "bbox": [
+    15.7,
+    -17.19,
+    10.26,
+    30.42
+  ],
+  "code": "66206405",
+  "default_trans": 1880,
+  "kind": "CRS-GEOGCRS",
+  "name": "Point 58 (deg)",
+  "proj4": "",
+  "trans": [
+    1880
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

@@ -1,0 +1,27 @@
+{
+  "accuracy": 1,
+  "area": "New Caledonia - Grande Terre - Noumea district.",
+  "authority": "EPSG",
+  "bbox": [
+    -22.19,
+    166.35,
+    -22.37,
+    166.54
+  ],
+  "code": "66446405",
+  "default_trans": 15904,
+  "kind": "CRS-GEOGCRS",
+  "name": "NEA74 Noumea (deg)",
+  "proj4": "",
+  "trans": [
+    1932,
+    9328,
+    15886,
+    15889,
+    15904,
+    15943,
+    15944
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

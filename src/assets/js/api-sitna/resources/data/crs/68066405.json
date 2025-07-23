@@ -1,0 +1,22 @@
+{
+  "accuracy": "",
+  "area": "Italy - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    47.1,
+    5.93,
+    34.76,
+    18.99
+  ],
+  "code": "68066405",
+  "default_trans": 1262,
+  "kind": "CRS-GEOGCRS",
+  "name": "Monte Mario (Rome) (deg)",
+  "proj4": "",
+  "trans": [
+    1262,
+    8175
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

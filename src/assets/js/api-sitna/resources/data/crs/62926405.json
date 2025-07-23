@@ -1,0 +1,21 @@
+{
+  "accuracy": 2,
+  "area": "Falkland Islands (Malvinas) - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    -47.68,
+    -65.01,
+    -56.25,
+    -52.31
+  ],
+  "code": "62926405",
+  "default_trans": 1225,
+  "kind": "CRS-GEOGCRS",
+  "name": "Sapper Hill 1943 (deg)",
+  "proj4": "",
+  "trans": [
+    1225
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

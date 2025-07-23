@@ -1,0 +1,21 @@
+{
+  "accuracy": 1,
+  "area": "Iraq - Kuwait boundary.",
+  "authority": "EPSG",
+  "bbox": [
+    30.32,
+    46.36,
+    29.06,
+    48.61
+  ],
+  "code": "66676405",
+  "default_trans": 1993,
+  "kind": "CRS-GEOGCRS",
+  "name": "IKBD-92 (deg)",
+  "proj4": "",
+  "trans": [
+    1993
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

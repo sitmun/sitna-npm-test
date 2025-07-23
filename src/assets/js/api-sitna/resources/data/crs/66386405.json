@@ -1,0 +1,22 @@
+{
+  "accuracy": 1,
+  "area": "St Pierre and Miquelon - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    47.37,
+    -57.1,
+    43.41,
+    -55.9
+  ],
+  "code": "66386405",
+  "default_trans": 8270,
+  "kind": "CRS-GEOGCRS",
+  "name": "Saint Pierre et Miquelon 1950 (deg)",
+  "proj4": "",
+  "trans": [
+    1923,
+    8270
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

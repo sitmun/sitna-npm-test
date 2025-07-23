@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "USA - Wisconsin",
+  "authority": "ESRI",
+  "bbox": [
+    47.31,
+    -92.89,
+    42.48,
+    -86.25
+  ],
+  "code": "103809",
+  "default_trans": 0,
+  "kind": "CRS-PROJCRS",
+  "name": "NAD 1983 HARN Adj. Wisconsin Douglas (meters) (DEPRECATED)",
+  "proj4": "+proj=tmerc +lat_0=45.8833333333333 +lon_0=-91.9166666666667 +k=0.999995 +x_0=59131.3182626365 +y_0=0 +a=6378414.93 +rf=298.270218784012 +units=m +no_defs +type=crs",
+  "trans": [],
+  "unit": "",
+  "wkt": "PROJCS[\"NAD_1983_HARN_Adj_WI_Douglas_Meters (deprecated)\",GEOGCS[\"GCS_NAD_1983_HARN_Adj_WI_Douglas (deprecated)\",DATUM[\"D_NAD_1983_HARN_Adj_WI_DG\",SPHEROID[\"GRS_1980_Adj_WI_DG\",6378414.93,298.270218784012,AUTHORITY[\"ESRI\",\"107812\"]],AUTHORITY[\"ESRI\",\"106812\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"ESRI\",\"104815\"]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",45.8833333333333],PARAMETER[\"central_meridian\",-91.9166666666667],PARAMETER[\"scale_factor\",0.999995],PARAMETER[\"false_easting\",59131.3182626365],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"ESRI\",\"103809\"]]"
+}

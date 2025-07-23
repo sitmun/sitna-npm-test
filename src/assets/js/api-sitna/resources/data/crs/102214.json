@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "Cape Verde",
+  "authority": "ESRI",
+  "bbox": [
+    20.54,
+    -28.85,
+    11.47,
+    -19.53
+  ],
+  "code": "102214",
+  "default_trans": 0,
+  "kind": "CRS-PROJCRS",
+  "name": "WGS 1984 Cape Verde Grid",
+  "proj4": "+proj=lcc +lat_0=15.8333333333333 +lon_0=-24 +lat_1=15 +lat_2=16.6666666666667 +x_0=161587.83 +y_0=128511.202 +datum=WGS84 +units=m +no_defs +type=crs",
+  "trans": [],
+  "unit": "",
+  "wkt": "PROJCS[\"WGS_1984_Cape_Verde_Grid (deprecated)\",GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4326\"]],PROJECTION[\"Lambert_Conformal_Conic_2SP\"],PARAMETER[\"latitude_of_origin\",15.8333333333333],PARAMETER[\"central_meridian\",-24],PARAMETER[\"standard_parallel_1\",15],PARAMETER[\"standard_parallel_2\",16.6666666666667],PARAMETER[\"false_easting\",161587.83],PARAMETER[\"false_northing\",128511.202],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"ESRI\",\"102214\"]]"
+}

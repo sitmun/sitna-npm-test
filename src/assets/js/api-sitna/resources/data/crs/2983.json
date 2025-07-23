@@ -1,0 +1,21 @@
+{
+  "accuracy": "",
+  "area": "New Caledonia - Loyalty Islands - Ouvea.",
+  "authority": "EPSG",
+  "bbox": [
+    -20.34,
+    166.44,
+    -20.77,
+    166.71
+  ],
+  "code": "2983",
+  "default_trans": 0,
+  "kind": "CRS-PROJCRS",
+  "name": "ST87 Ouvea / UTM zone 58S",
+  "proj4": "+proj=utm +zone=58 +south +ellps=intl +units=m +no_defs +type=crs",
+  "trans": [
+    1919
+  ],
+  "unit": "metre",
+  "wkt": "PROJCS[\"ST87 Ouvea / UTM zone 58S (deprecated)\",GEOGCS[\"ST87 Ouvea (deprecated)\",DATUM[\"ST87_Ouvea\",SPHEROID[\"International 1924\",6378388,297,AUTHORITY[\"EPSG\",\"7022\"]],AUTHORITY[\"EPSG\",\"6635\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4635\"]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",165],PARAMETER[\"scale_factor\",0.9996],PARAMETER[\"false_easting\",500000],PARAMETER[\"false_northing\",10000000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"EPSG\",\"2983\"]]"
+}

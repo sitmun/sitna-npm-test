@@ -1,0 +1,21 @@
+{
+  "accuracy": 21,
+  "area": "Myanmar (Burma) - onshore; Thailand - onshore.",
+  "authority": "EPSG",
+  "bbox": [
+    28.55,
+    92.2,
+    5.63,
+    105.64
+  ],
+  "code": "62396405",
+  "default_trans": 1153,
+  "kind": "CRS-GEOGCRS",
+  "name": "Indian 1954 (deg)",
+  "proj4": "",
+  "trans": [
+    1153
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

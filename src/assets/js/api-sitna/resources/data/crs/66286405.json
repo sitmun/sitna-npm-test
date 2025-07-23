@@ -1,0 +1,21 @@
+{
+  "accuracy": 10,
+  "area": "French Polynesia - Society Islands - Moorea and Tahiti.",
+  "authority": "EPSG",
+  "bbox": [
+    -17.41,
+    -150,
+    -17.93,
+    -149.09
+  ],
+  "code": "66286405",
+  "default_trans": 1924,
+  "kind": "CRS-GEOGCRS",
+  "name": "Tahiti (deg)",
+  "proj4": "",
+  "trans": [
+    1924
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

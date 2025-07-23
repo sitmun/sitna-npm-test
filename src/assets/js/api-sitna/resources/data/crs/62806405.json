@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "Indonesia - Sumatra.",
+  "authority": "EPSG",
+  "bbox": [
+    5.97,
+    95.16,
+    -5.99,
+    106.13
+  ],
+  "code": "62806405",
+  "default_trans": 0,
+  "kind": "CRS-GEOGCRS",
+  "name": "Padang (deg)",
+  "proj4": "",
+  "trans": [],
+  "unit": "degree",
+  "wkt": ""
+}

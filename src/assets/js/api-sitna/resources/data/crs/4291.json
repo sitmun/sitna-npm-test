@@ -1,0 +1,34 @@
+{
+  "accuracy": "",
+  "area": "Brazil - onshore and offshore. In rest of South America - onshore north of approximately 45°S and Tierra del Fuego.",
+  "authority": "EPSG",
+  "bbox": [
+    12.52,
+    -91.72,
+    -55.96,
+    -25.28
+  ],
+  "code": "4291",
+  "default_trans": 0,
+  "kind": "CRS-GEOGCRS",
+  "name": "SAD69",
+  "proj4": "+proj=longlat +ellps=GRS67 +no_defs +type=crs",
+  "trans": [
+    1212,
+    1213,
+    1214,
+    1215,
+    1216,
+    1217,
+    1218,
+    1219,
+    1220,
+    1221,
+    1222,
+    1223,
+    1224,
+    1548
+  ],
+  "unit": "degree minute second hemisphere",
+  "wkt": "GEOGCS[\"SAD69 (deprecated)\",DATUM[\"South_American_Datum_1969\",SPHEROID[\"GRS 1967\",6378160,298.247167427,AUTHORITY[\"EPSG\",\"7036\"]],AUTHORITY[\"EPSG\",\"6291\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree minute second hemisphere\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9108\"]],AUTHORITY[\"EPSG\",\"4291\"]]"
+}

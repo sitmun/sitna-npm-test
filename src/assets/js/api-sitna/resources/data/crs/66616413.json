@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "Latvia - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    58.09,
+    19.06,
+    55.67,
+    28.24
+  ],
+  "code": "66616413",
+  "default_trans": 0,
+  "kind": "CRS-GEOG3DCRS",
+  "name": "LKS92 (3D deg)",
+  "proj4": "",
+  "trans": [],
+  "unit": "degree",
+  "wkt": ""
+}

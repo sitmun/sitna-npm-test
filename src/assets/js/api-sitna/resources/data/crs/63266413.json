@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "World.",
+  "authority": "EPSG",
+  "bbox": [
+    90,
+    -180,
+    -90,
+    180
+  ],
+  "code": "63266413",
+  "default_trans": 0,
+  "kind": "CRS-GEOG3DCRS",
+  "name": "WGS 84 (3D deg)",
+  "proj4": "",
+  "trans": [],
+  "unit": "degree",
+  "wkt": ""
+}

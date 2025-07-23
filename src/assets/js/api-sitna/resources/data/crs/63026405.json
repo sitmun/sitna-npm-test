@@ -1,0 +1,22 @@
+{
+  "accuracy": 2,
+  "area": "Trinidad and Tobago - Tobago - onshore.",
+  "authority": "EPSG",
+  "bbox": [
+    11.41,
+    -60.9,
+    11.08,
+    -60.44
+  ],
+  "code": "63026405",
+  "default_trans": 1296,
+  "kind": "CRS-GEOGCRS",
+  "name": "Trinidad 1903 (deg)",
+  "proj4": "",
+  "trans": [
+    1296,
+    10085
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

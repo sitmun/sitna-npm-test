@@ -1,0 +1,24 @@
+{
+  "accuracy": 1.5,
+  "area": "United States (USA) - Alaska - Pribilof Islands - St Paul Island.",
+  "authority": "EPSG",
+  "bbox": [
+    57.28,
+    -170.51,
+    57.06,
+    -170.04
+  ],
+  "code": "61376405",
+  "default_trans": 1700,
+  "kind": "CRS-GEOGCRS",
+  "name": "St. Paul Island (deg)",
+  "proj4": "",
+  "trans": [
+    1456,
+    1700,
+    8390,
+    8548
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

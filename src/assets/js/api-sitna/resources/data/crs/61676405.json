@@ -1,0 +1,21 @@
+{
+  "accuracy": 1,
+  "area": "New Zealand - onshore and offshore. Includes Antipodes Islands, Auckland Islands, Bounty Islands, Chatham Islands, Cambell Island, Kermadec Islands, Raoul Island and Snares Islands.",
+  "authority": "EPSG",
+  "bbox": [
+    -25.88,
+    160.6,
+    -55.95,
+    -171.2
+  ],
+  "code": "61676405",
+  "default_trans": 1565,
+  "kind": "CRS-GEOGCRS",
+  "name": "NZGD2000 (deg)",
+  "proj4": "",
+  "trans": [
+    1565
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

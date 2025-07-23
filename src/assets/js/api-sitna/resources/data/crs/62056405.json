@@ -1,0 +1,21 @@
+{
+  "accuracy": 44,
+  "area": "Somalia - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    13.5,
+    40.98,
+    -3.61,
+    54.43
+  ],
+  "code": "62056405",
+  "default_trans": 1107,
+  "kind": "CRS-GEOGCRS",
+  "name": "Afgooye (deg)",
+  "proj4": "",
+  "trans": [
+    1107
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

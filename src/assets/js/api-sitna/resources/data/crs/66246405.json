@@ -1,0 +1,22 @@
+{
+  "accuracy": 1,
+  "area": "French Guiana - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    8.88,
+    -54.61,
+    2.11,
+    -49.45
+  ],
+  "code": "66246405",
+  "default_trans": 4840,
+  "kind": "CRS-GEOGCRS",
+  "name": "RGFG95 (deg)",
+  "proj4": "",
+  "trans": [
+    1907,
+    4840
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

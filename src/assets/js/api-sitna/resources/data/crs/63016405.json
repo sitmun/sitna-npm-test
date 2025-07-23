@@ -1,0 +1,31 @@
+{
+  "accuracy": 9,
+  "area": "Japan - onshore; North Korea - onshore; South Korea - onshore.",
+  "authority": "EPSG",
+  "bbox": [
+    45.54,
+    122.83,
+    20.37,
+    154.05
+  ],
+  "code": "63016405",
+  "default_trans": 15484,
+  "kind": "CRS-GEOGCRS",
+  "name": "Tokyo (deg)",
+  "proj4": "",
+  "trans": [
+    1230,
+    1231,
+    1232,
+    1233,
+    1305,
+    1335,
+    6712,
+    6714,
+    6740,
+    15483,
+    15484
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

@@ -1,0 +1,23 @@
+{
+  "accuracy": 1,
+  "area": "Greenland - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    87.02,
+    -75,
+    56.38,
+    7.99
+  ],
+  "code": "61946405",
+  "default_trans": 1798,
+  "kind": "CRS-GEOGCRS",
+  "name": "Qornoq 1927 (deg)",
+  "proj4": "",
+  "trans": [
+    1797,
+    1798,
+    15957
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

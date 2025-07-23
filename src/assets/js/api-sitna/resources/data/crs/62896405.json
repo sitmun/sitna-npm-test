@@ -1,0 +1,35 @@
+{
+  "accuracy": 1,
+  "area": "Netherlands - onshore, including Waddenzee, Dutch Wadden Islands and 12-mile offshore coastal zone.",
+  "authority": "EPSG",
+  "bbox": [
+    53.7,
+    3.2,
+    50.75,
+    7.22
+  ],
+  "code": "62896405",
+  "default_trans": 4833,
+  "kind": "CRS-GEOGCRS",
+  "name": "Amersfoort (deg)",
+  "proj4": "",
+  "trans": [
+    1066,
+    1112,
+    1672,
+    1751,
+    4830,
+    4831,
+    4833,
+    4837,
+    7000,
+    8572,
+    9281,
+    9282,
+    15739,
+    15740,
+    15934
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

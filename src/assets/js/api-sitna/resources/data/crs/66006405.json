@@ -1,0 +1,21 @@
+{
+  "accuracy": 10,
+  "area": "Anguilla - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    21.93,
+    -63.9,
+    17.94,
+    -60.68
+  ],
+  "code": "66006405",
+  "default_trans": 1447,
+  "kind": "CRS-GEOGCRS",
+  "name": "Anguilla 1957 (deg)",
+  "proj4": "",
+  "trans": [
+    1447
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

@@ -1,0 +1,21 @@
+{
+  "accuracy": "",
+  "area": "New Caledonia - Loyalty Islands - Ouvea.",
+  "authority": "EPSG",
+  "bbox": [
+    -20.34,
+    166.44,
+    -20.77,
+    166.71
+  ],
+  "code": "66356405",
+  "default_trans": 0,
+  "kind": "CRS-GEOGCRS",
+  "name": "ST87 Ouvea (deg)",
+  "proj4": "",
+  "trans": [
+    1919
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

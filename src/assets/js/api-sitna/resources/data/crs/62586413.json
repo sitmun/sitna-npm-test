@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "Europe - onshore and offshore - ETRF extent - approximately 16°W to 33°E and 33°N to 84°N.",
+  "authority": "EPSG",
+  "bbox": [
+    84.73,
+    -16.1,
+    33.26,
+    38.01
+  ],
+  "code": "62586413",
+  "default_trans": 0,
+  "kind": "CRS-GEOG3DCRS",
+  "name": "ETRS89 (3D deg)",
+  "proj4": "",
+  "trans": [],
+  "unit": "degree",
+  "wkt": ""
+}

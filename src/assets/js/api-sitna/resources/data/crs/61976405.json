@@ -1,0 +1,22 @@
+{
+  "accuracy": 5,
+  "area": "Cameroon - Garoua area.",
+  "authority": "EPSG",
+  "bbox": [
+    9.87,
+    12.9,
+    8.92,
+    14.19
+  ],
+  "code": "61976405",
+  "default_trans": 1805,
+  "kind": "CRS-GEOGCRS",
+  "name": "Garoua (deg)",
+  "proj4": "",
+  "trans": [
+    1805,
+    8631
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

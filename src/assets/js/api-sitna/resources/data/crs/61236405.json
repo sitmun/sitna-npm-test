@@ -1,0 +1,24 @@
+{
+  "accuracy": 1,
+  "area": "Finland - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    70.09,
+    19.08,
+    58.84,
+    31.59
+  ],
+  "code": "61236405",
+  "default_trans": 10099,
+  "kind": "CRS-GEOGCRS",
+  "name": "KKJ (deg)",
+  "proj4": "",
+  "trans": [
+    1638,
+    1639,
+    10098,
+    10099
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

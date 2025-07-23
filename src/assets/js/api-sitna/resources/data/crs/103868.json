@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "USA - Wisconsin",
+  "authority": "ESRI",
+  "bbox": [
+    47.31,
+    -92.89,
+    42.48,
+    -86.25
+  ],
+  "code": "103868",
+  "default_trans": 0,
+  "kind": "CRS-PROJCRS",
+  "name": "NAD 1983 HARN Adj. Wisconsin Walworth (meters) (DEPRECATED)",
+  "proj4": "+proj=lcc +lat_0=41.6694444444444 +lon_0=-88.5416666666667 +lat_1=42.5888888888889 +lat_2=42.75 +x_0=232562.86512573 +y_0=0 +a=6378377.411 +rf=298.268464304182 +units=m +no_defs +type=crs",
+  "trans": [],
+  "unit": "",
+  "wkt": "PROJCS[\"NAD_1983_HARN_Adj_WI_Walworth_Meters (deprecated)\",GEOGCS[\"GCS_NAD_1983_HARN_Adj_WI_Walworth (deprecated)\",DATUM[\"D_NAD_1983_HARN_Adj_WI_WW\",SPHEROID[\"GRS_1980_Adj_WI_WW\",6378377.411,298.268464304182,AUTHORITY[\"ESRI\",\"107844\"]],AUTHORITY[\"ESRI\",\"106844\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"ESRI\",\"104864\"]],PROJECTION[\"Lambert_Conformal_Conic_2SP\"],PARAMETER[\"latitude_of_origin\",41.6694444444444],PARAMETER[\"central_meridian\",-88.5416666666667],PARAMETER[\"standard_parallel_1\",42.5888888888889],PARAMETER[\"standard_parallel_2\",42.75],PARAMETER[\"false_easting\",232562.86512573],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"ESRI\",\"103868\"]]"
+}

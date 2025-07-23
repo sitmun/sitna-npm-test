@@ -1,0 +1,21 @@
+{
+  "accuracy": 15,
+  "area": "Malaysia - West Malaysia; Singapore.",
+  "authority": "EPSG",
+  "bbox": [
+    6.72,
+    99.59,
+    1.13,
+    104.6
+  ],
+  "code": "62456405",
+  "default_trans": 1158,
+  "kind": "CRS-GEOGCRS",
+  "name": "Kertau (deg)",
+  "proj4": "",
+  "trans": [
+    1158
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

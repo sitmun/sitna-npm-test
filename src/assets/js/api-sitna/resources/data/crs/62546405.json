@@ -1,0 +1,23 @@
+{
+  "accuracy": 44,
+  "area": "Chile - Tierra del Fuego, onshore; Argentina - Tierra del Fuego, onshore and offshore Atlantic west of 66°W.",
+  "authority": "EPSG",
+  "bbox": [
+    -51.65,
+    -74.83,
+    -55.96,
+    -63.73
+  ],
+  "code": "62546405",
+  "default_trans": 1892,
+  "kind": "CRS-GEOGCRS",
+  "name": "Hito XVIII 1963 (deg)",
+  "proj4": "",
+  "trans": [
+    1529,
+    1892,
+    9263
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

@@ -1,0 +1,25 @@
+{
+  "accuracy": 12,
+  "area": "Brazil - onshore and offshore. Includes Rocas, Fernando de Noronha archipelago, Trindade, Ihlas Martim Vaz and Sao Pedro e Sao Paulo.",
+  "authority": "EPSG",
+  "bbox": [
+    7.04,
+    -74.01,
+    -35.71,
+    -25.28
+  ],
+  "code": "62246405",
+  "default_trans": 1131,
+  "kind": "CRS-GEOGCRS",
+  "name": "Chua (deg)",
+  "proj4": "",
+  "trans": [
+    1131,
+    3972,
+    4069,
+    4070,
+    4834
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

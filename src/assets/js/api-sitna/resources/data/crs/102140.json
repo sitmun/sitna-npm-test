@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "China - Hong Kong",
+  "authority": "ESRI",
+  "bbox": [
+    22.58,
+    113.76,
+    22.13,
+    114.51
+  ],
+  "code": "102140",
+  "default_trans": 0,
+  "kind": "CRS-PROJCRS",
+  "name": "Hong Kong 1980 Grid",
+  "proj4": "+proj=tmerc +lat_0=22.3121333333333 +lon_0=114.178555555556 +k=1 +x_0=836694.05 +y_0=819069.8 +ellps=intl +units=m +no_defs +type=crs",
+  "trans": [],
+  "unit": "",
+  "wkt": "PROJCS[\"Hong_Kong_1980_Grid (deprecated)\",GEOGCS[\"Hong Kong 1980\",DATUM[\"Hong_Kong_1980\",SPHEROID[\"International 1924\",6378388,297,AUTHORITY[\"EPSG\",\"7022\"]],AUTHORITY[\"EPSG\",\"6611\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4611\"]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",22.3121333333333],PARAMETER[\"central_meridian\",114.178555555556],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",836694.05],PARAMETER[\"false_northing\",819069.8],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"ESRI\",\"102140\"]]"
+}

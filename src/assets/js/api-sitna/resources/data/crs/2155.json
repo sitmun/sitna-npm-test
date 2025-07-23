@@ -1,0 +1,28 @@
+{
+  "accuracy": 44,
+  "area": "American Samoa - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    -10.02,
+    -173.75,
+    -17.56,
+    -165.2
+  ],
+  "code": "2155",
+  "default_trans": 1577,
+  "kind": "CRS-PROJCRS",
+  "name": "American Samoa 1962 / American Samoa Lambert",
+  "proj4": "+proj=lcc +lat_1=-14.2666666666667 +lat_0=-14.2666666666667 +lon_0=170 +k_0=1 +x_0=152400.30480061 +y_0=0 +ellps=clrk66 +towgs84=-115,118,426,0,0,0,0 +units=us-ft +no_defs +type=crs",
+  "trans": [
+    1577,
+    1578,
+    1579,
+    1694,
+    1695,
+    8574,
+    8575,
+    8662
+  ],
+  "unit": "US survey foot",
+  "wkt": "PROJCS[\"American Samoa 1962 / American Samoa Lambert\",GEOGCS[\"American Samoa 1962\",DATUM[\"American_Samoa_1962\",SPHEROID[\"Clarke 1866\",6378206.4,294.978698213898],TOWGS84[-115,118,426,0,0,0,0]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4169\"]],PROJECTION[\"Lambert_Conformal_Conic_1SP\"],PARAMETER[\"latitude_of_origin\",-14.2666666666667],PARAMETER[\"central_meridian\",170],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",500000],PARAMETER[\"false_northing\",0],UNIT[\"US survey foot\",0.304800609601219],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"EPSG\",\"2155\"]]"
+}

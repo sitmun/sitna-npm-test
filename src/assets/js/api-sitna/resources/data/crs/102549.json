@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "USA - Oregon - Sweet Home-Sisters",
+  "authority": "ESRI",
+  "bbox": [
+    44.66,
+    -122.51,
+    44.1,
+    -121.69
+  ],
+  "code": "102549",
+  "default_trans": 0,
+  "kind": "CRS-PROJCRS",
+  "name": "OCRS Santiam Pass NAD 1983 CORS96 TM (M)",
+  "proj4": "+proj=tmerc +lat_0=44.0833333333333 +lon_0=-122.5 +k=1.000155 +x_0=0 +y_0=0 +ellps=GRS80 +units=m +no_defs +type=crs",
+  "trans": [],
+  "unit": "",
+  "wkt": "PROJCS[\"OCRS_Santiam_Pass_NAD_1983_CORS96_TM_Meters (deprecated)\",GEOGCS[\"NAD83(CORS96)\",DATUM[\"NAD83_Continuously_Operating_Reference_Station_1996\",SPHEROID[\"GRS 1980\",6378137,298.257222101,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"1133\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"6783\"]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",44.0833333333333],PARAMETER[\"central_meridian\",-122.5],PARAMETER[\"scale_factor\",1.000155],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"ESRI\",\"102549\"]]"
+}

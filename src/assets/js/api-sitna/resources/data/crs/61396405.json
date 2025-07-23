@@ -1,0 +1,28 @@
+{
+  "accuracy": 6,
+  "area": "Puerto Rico, US Virgin Islands and British Virgin Islands - onshore.",
+  "authority": "EPSG",
+  "bbox": [
+    18.78,
+    -67.97,
+    17.62,
+    -64.25
+  ],
+  "code": "61396405",
+  "default_trans": 1893,
+  "kind": "CRS-GEOGCRS",
+  "name": "Puerto Rico (deg)",
+  "proj4": "",
+  "trans": [
+    1461,
+    1893,
+    4435,
+    8402,
+    8481,
+    8583,
+    8668,
+    15841
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

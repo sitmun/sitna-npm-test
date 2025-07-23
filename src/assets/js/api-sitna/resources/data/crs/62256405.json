@@ -1,0 +1,27 @@
+{
+  "accuracy": 2,
+  "area": "Brazil - onshore - west of 54°W and south of 18°S; also south of 15°S between 54°W and 42°W; also east of 42°W.",
+  "authority": "EPSG",
+  "bbox": [
+    -2.68,
+    -58.16,
+    -33.78,
+    -34.74
+  ],
+  "code": "62256405",
+  "default_trans": 5541,
+  "kind": "CRS-GEOGCRS",
+  "name": "Corrego Alegre (deg)",
+  "proj4": "",
+  "trans": [
+    1132,
+    5526,
+    5541,
+    6191,
+    6192,
+    6193,
+    6194
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

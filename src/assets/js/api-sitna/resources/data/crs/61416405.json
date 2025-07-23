@@ -1,0 +1,22 @@
+{
+  "accuracy": 0.5,
+  "area": "Israel - onshore; Palestine Territory - onshore.",
+  "authority": "EPSG",
+  "bbox": [
+    33.28,
+    34.17,
+    29.45,
+    35.69
+  ],
+  "code": "61416405",
+  "default_trans": 9676,
+  "kind": "CRS-GEOGCRS",
+  "name": "Israel (deg)",
+  "proj4": "",
+  "trans": [
+    1073,
+    9676
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

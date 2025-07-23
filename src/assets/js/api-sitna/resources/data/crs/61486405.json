@@ -1,0 +1,21 @@
+{
+  "accuracy": 1,
+  "area": "South Africa - onshore and offshore, including Marion Island, and Prince Edward Island.",
+  "authority": "EPSG",
+  "bbox": [
+    -22.13,
+    13.33,
+    -50.32,
+    42.85
+  ],
+  "code": "61486405",
+  "default_trans": 1505,
+  "kind": "CRS-GEOGCRS",
+  "name": "Hartebeesthoek94 (deg)",
+  "proj4": "",
+  "trans": [
+    1505
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

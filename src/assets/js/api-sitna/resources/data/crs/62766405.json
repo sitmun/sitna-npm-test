@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "World.",
+  "authority": "EPSG",
+  "bbox": [
+    90,
+    -180,
+    -90,
+    180
+  ],
+  "code": "62766405",
+  "default_trans": 0,
+  "kind": "CRS-GEOGCRS",
+  "name": "NSWC 9Z-2 (deg)",
+  "proj4": "",
+  "trans": [],
+  "unit": "degree",
+  "wkt": ""
+}

@@ -1,0 +1,21 @@
+{
+  "accuracy": 999,
+  "area": "Afghanistan.",
+  "authority": "EPSG",
+  "bbox": [
+    38.48,
+    60.5,
+    29.4,
+    74.92
+  ],
+  "code": "62556405",
+  "default_trans": 1246,
+  "kind": "CRS-GEOGCRS",
+  "name": "Herat North (deg)",
+  "proj4": "",
+  "trans": [
+    1246
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

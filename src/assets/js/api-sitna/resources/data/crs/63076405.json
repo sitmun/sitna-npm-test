@@ -1,0 +1,38 @@
+{
+  "accuracy": 1,
+  "area": "Algeria; Morocco; Tunisia.",
+  "authority": "EPSG",
+  "bbox": [
+    37.34,
+    -13.17,
+    18.98,
+    11.99
+  ],
+  "code": "63076405",
+  "default_trans": 10296,
+  "kind": "CRS-GEOGCRS",
+  "name": "Nord Sahara 1959 (deg)",
+  "proj4": "",
+  "trans": [
+    1253,
+    1255,
+    1560,
+    1815,
+    1816,
+    1817,
+    5630,
+    5660,
+    7442,
+    8562,
+    10296,
+    10339,
+    10340,
+    10341,
+    10342,
+    10343,
+    10344,
+    15874
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

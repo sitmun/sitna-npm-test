@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "Yemen - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    19,
+    41.08,
+    8.95,
+    57.96
+  ],
+  "code": "4379",
+  "default_trans": 0,
+  "kind": "CRS-GEOG3DCRS",
+  "name": "Yemen NGN96 (3D)",
+  "proj4": "+proj=longlat +ellps=WGS84 +no_defs +type=crs",
+  "trans": [],
+  "unit": "degree minute second hemisphere",
+  "wkt": ""
+}

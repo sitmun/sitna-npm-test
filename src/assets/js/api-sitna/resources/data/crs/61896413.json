@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "Venezuela - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    16.75,
+    -73.38,
+    0.64,
+    -58.95
+  ],
+  "code": "61896413",
+  "default_trans": 0,
+  "kind": "CRS-GEOG3DCRS",
+  "name": "REGVEN (3D deg)",
+  "proj4": "",
+  "trans": [],
+  "unit": "degree",
+  "wkt": ""
+}

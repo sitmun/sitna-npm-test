@@ -1,0 +1,24 @@
+{
+  "accuracy": 2,
+  "area": "United States (USA) - Minnesota - counties of Beltrami; Clearwater; Cook; Itasca; Kittson; Koochiching; Lake; Lake of the Woods; Mahnomen; Marshall; Norman; Pennington; Polk; Red Lake; Roseau; St Louis.",
+  "authority": "EPSG",
+  "bbox": [
+    49.38,
+    -97.22,
+    46.64,
+    -89.49
+  ],
+  "code": "26841",
+  "default_trans": 15931,
+  "kind": "CRS-PROJCRS",
+  "name": "NAD83(NSRS2007) / Minnesota North (ftUS)",
+  "proj4": "+proj=lcc +lat_0=46.5 +lon_0=-93.1 +lat_1=48.6333333333333 +lat_2=47.0333333333333 +x_0=800000.00001016 +y_0=99999.9999898399 +ellps=GRS80 +towgs84=0,0,0,0,0,0,0 +units=m +no_defs +type=crs",
+  "trans": [
+    8552,
+    8559,
+    8673,
+    15931
+  ],
+  "unit": "metre",
+  "wkt": "PROJCS[\"NAD83(NSRS2007) / Minnesota North (ftUS)\",GEOGCS[\"NAD83(NSRS2007)\",DATUM[\"NAD83_National_Spatial_Reference_System_2007\",SPHEROID[\"GRS 1980\",6378137,298.257222101],TOWGS84[0,0,0,0,0,0,0]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4759\"]],PROJECTION[\"Lambert_Conformal_Conic_2SP\"],PARAMETER[\"latitude_of_origin\",46.5],PARAMETER[\"central_meridian\",-93.1],PARAMETER[\"standard_parallel_1\",48.6333333333333],PARAMETER[\"standard_parallel_2\",47.0333333333333],PARAMETER[\"false_easting\",800000.00001016],PARAMETER[\"false_northing\",99999.9999898399],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"EPSG\",\"26841\"]]"
+}

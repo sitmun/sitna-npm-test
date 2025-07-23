@@ -1,0 +1,23 @@
+{
+  "accuracy": 0.5,
+  "area": "Iran - Arwaz area and onshore Gulf coast west of 54°E, Lavan Island, offshore Balal field and South Pars blocks 2 and 3.",
+  "authority": "EPSG",
+  "bbox": [
+    33.22,
+    47.13,
+    26.21,
+    53.61
+  ],
+  "code": "61326405",
+  "default_trans": 1513,
+  "kind": "CRS-GEOGCRS",
+  "name": "FD58 (deg)",
+  "proj4": "",
+  "trans": [
+    1513,
+    1854,
+    1855
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

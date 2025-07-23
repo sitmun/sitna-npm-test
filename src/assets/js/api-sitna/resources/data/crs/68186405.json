@@ -1,0 +1,24 @@
+{
+  "accuracy": "",
+  "area": "Czechia; Slovakia.",
+  "authority": "EPSG",
+  "bbox": [
+    51.06,
+    12.09,
+    47.73,
+    22.56
+  ],
+  "code": "68186405",
+  "default_trans": 1884,
+  "kind": "CRS-GEOGCRS",
+  "name": "S-JTSK (Ferro) (deg)",
+  "proj4": "",
+  "trans": [
+    1884,
+    5230,
+    5242,
+    8642
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

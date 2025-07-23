@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "Jamaica - onshore and offshore. Includes Morant Cays and Pedro Cays.",
+  "authority": "EPSG",
+  "bbox": [
+    19.36,
+    -80.6,
+    14.08,
+    -74.51
+  ],
+  "code": "62416405",
+  "default_trans": 0,
+  "kind": "CRS-GEOGCRS",
+  "name": "Jamaica 1875 (deg)",
+  "proj4": "",
+  "trans": [],
+  "unit": "degree",
+  "wkt": ""
+}

@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "French Guiana - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    8.88,
+    -54.61,
+    2.11,
+    -49.45
+  ],
+  "code": "4372",
+  "default_trans": 0,
+  "kind": "CRS-GCENCRS",
+  "name": "RGFG95 (geocentric)",
+  "proj4": "+proj=geocent +ellps=GRS80 +units=m +no_defs +type=crs",
+  "trans": [],
+  "unit": "metre",
+  "wkt": "GEOCCS[\"RGFG95 (geocentric) (deprecated)\",DATUM[\"Reseau_Geodesique_Francais_Guyane_1995\",SPHEROID[\"GRS 1980\",6378137,298.257222101,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6624\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Geocentric X\",OTHER],AXIS[\"Geocentric Y\",OTHER],AXIS[\"Geocentric Z\",NORTH],AUTHORITY[\"EPSG\",\"4372\"]]"
+}

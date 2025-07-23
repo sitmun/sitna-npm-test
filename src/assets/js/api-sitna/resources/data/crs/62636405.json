@@ -1,0 +1,37 @@
+{
+  "accuracy": 15,
+  "area": "Nigeria - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    13.9,
+    2.66,
+    1.92,
+    14.65
+  ],
+  "code": "62636405",
+  "default_trans": 1168,
+  "kind": "CRS-GEOGCRS",
+  "name": "Minna (deg)",
+  "proj4": "",
+  "trans": [
+    1067,
+    1167,
+    1168,
+    1534,
+    1754,
+    1818,
+    1819,
+    1820,
+    1821,
+    1822,
+    1823,
+    1824,
+    6196,
+    15493,
+    15705,
+    15706,
+    15755
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

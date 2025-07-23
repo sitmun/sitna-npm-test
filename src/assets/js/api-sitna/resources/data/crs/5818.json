@@ -1,0 +1,21 @@
+{
+  "accuracy": "",
+  "area": "enter here applicable geographic extent",
+  "authority": "EPSG",
+  "bbox": [
+    90,
+    179.99,
+    89.99,
+    180
+  ],
+  "code": "5818",
+  "default_trans": 0,
+  "kind": "CRS-ENGCRS",
+  "name": "enter here name of I=J+90 bin grid",
+  "proj4": "",
+  "trans": [
+    15744
+  ],
+  "unit": "(bin)",
+  "wkt": ""
+}

@@ -1,0 +1,24 @@
+{
+  "accuracy": 35,
+  "area": "Burundi, Kenya, Rwanda, Tanzania and Uganda.",
+  "authority": "EPSG",
+  "bbox": [
+    4.63,
+    28.85,
+    -11.75,
+    41.91
+  ],
+  "code": "62106405",
+  "default_trans": 1122,
+  "kind": "CRS-GEOGCRS",
+  "name": "Arc 1960 (deg)",
+  "proj4": "",
+  "trans": [
+    1122,
+    1284,
+    1285,
+    3998
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

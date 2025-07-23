@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "The Democratic Republic of the Congo (Zaire) - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    5.39,
+    11.79,
+    -13.46,
+    31.31
+  ],
+  "code": "4685",
+  "default_trans": 0,
+  "kind": "CRS-GEOGCRS",
+  "name": "Gandajika",
+  "proj4": "+proj=longlat +ellps=intl +no_defs +type=crs",
+  "trans": [],
+  "unit": "degree (supplier to define representation)",
+  "wkt": "GEOGCS[\"Gandajika (deprecated)\",DATUM[\"Gandajika\",SPHEROID[\"International 1924\",6378388,297,AUTHORITY[\"EPSG\",\"7022\"]],AUTHORITY[\"EPSG\",\"6685\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4685\"]]"
+}

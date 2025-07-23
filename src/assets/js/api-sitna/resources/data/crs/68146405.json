@@ -1,0 +1,22 @@
+{
+  "accuracy": "",
+  "area": "Sweden - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    69.07,
+    10.03,
+    54.96,
+    24.17
+  ],
+  "code": "68146405",
+  "default_trans": 0,
+  "kind": "CRS-GEOGCRS",
+  "name": "RT38 (Stockholm) (deg)",
+  "proj4": "",
+  "trans": [
+    1269,
+    1760
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

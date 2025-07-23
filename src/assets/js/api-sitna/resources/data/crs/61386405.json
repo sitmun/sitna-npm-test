@@ -1,0 +1,24 @@
+{
+  "accuracy": 1.5,
+  "area": "United States (USA) - Alaska - Pribilof Islands - St George Island.",
+  "authority": "EPSG",
+  "bbox": [
+    56.67,
+    -169.88,
+    56.49,
+    -169.38
+  ],
+  "code": "61386405",
+  "default_trans": 1698,
+  "kind": "CRS-GEOGCRS",
+  "name": "St. George Island (deg)",
+  "proj4": "",
+  "trans": [
+    1457,
+    1698,
+    8392,
+    8546
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

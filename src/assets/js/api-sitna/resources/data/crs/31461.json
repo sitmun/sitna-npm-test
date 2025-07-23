@@ -1,0 +1,36 @@
+{
+  "accuracy": 1,
+  "area": "Germany - onshore - west of 4°30'E.",
+  "authority": "EPSG",
+  "bbox": [
+    0,
+    0,
+    0,
+    0
+  ],
+  "code": "31461",
+  "default_trans": 15949,
+  "kind": "CRS-PROJCRS",
+  "name": "DHDN / 3-degree Gauss zone 1",
+  "proj4": "+proj=tmerc +lat_0=0 +lon_0=3 +k=1 +x_0=1500000 +y_0=0 +ellps=bessel +nadgrids=de_adv_BETA2007.tif +units=m +no_defs +type=crs",
+  "trans": [
+    1309,
+    1673,
+    1776,
+    1777,
+    1778,
+    1779,
+    1780,
+    1781,
+    1782,
+    8234,
+    9310,
+    9338,
+    9940,
+    15869,
+    15948,
+    15949
+  ],
+  "unit": "metre",
+  "wkt": "PROJCS[\"DHDN / 3-degree Gauss zone 1\",GEOGCS[\"DHDN\",DATUM[\"Deutsches_Hauptdreiecksnetz\",SPHEROID[\"Bessel 1841\",6377397.155,299.1528128],EXTENSION[\"PROJ4_GRIDS\",\"de_adv_BETA2007.tif\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4314\"]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",3],PARAMETER[\"scale_factor\",1],PARAMETER[\"false_easting\",1500000],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"EPSG\",\"31461\"]]"
+}

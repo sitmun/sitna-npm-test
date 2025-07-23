@@ -1,0 +1,22 @@
+{
+  "accuracy": 1,
+  "area": "Liechtenstein; Switzerland.",
+  "authority": "EPSG",
+  "bbox": [
+    47.81,
+    5.96,
+    45.82,
+    10.49
+  ],
+  "code": "61516405",
+  "default_trans": 1511,
+  "kind": "CRS-GEOGCRS",
+  "name": "CHTRF95 (deg)",
+  "proj4": "",
+  "trans": [
+    1511,
+    8895
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

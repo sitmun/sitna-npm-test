@@ -1,0 +1,21 @@
+{
+  "accuracy": 25,
+  "area": "Guinea-Bissau - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    12.69,
+    -19.8,
+    8.64,
+    -13.64
+  ],
+  "code": "61656405",
+  "default_trans": 1547,
+  "kind": "CRS-GEOGCRS",
+  "name": "Bissau (deg)",
+  "proj4": "",
+  "trans": [
+    1547
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

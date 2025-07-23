@@ -1,0 +1,21 @@
+{
+  "accuracy": 1,
+  "area": "Greece - onshore and offshore. Includes Aegean Islands, Ionian Islands, Dodecanese Islands, Crete, and Mount Athos.",
+  "authority": "EPSG",
+  "bbox": [
+    41.75,
+    18.26,
+    33.26,
+    30.23
+  ],
+  "code": "61216405",
+  "default_trans": 1272,
+  "kind": "CRS-GEOGCRS",
+  "name": "GGRS87 (deg)",
+  "proj4": "",
+  "trans": [
+    1272
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

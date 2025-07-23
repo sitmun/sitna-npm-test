@@ -1,0 +1,24 @@
+{
+  "accuracy": 9,
+  "area": "Argentina - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    -21.78,
+    -73.59,
+    -58.41,
+    -52.63
+  ],
+  "code": "62216405",
+  "default_trans": 1127,
+  "kind": "CRS-GEOGCRS",
+  "name": "Campo Inchauspe (deg)",
+  "proj4": "",
+  "trans": [
+    1127,
+    1527,
+    5350,
+    15782
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

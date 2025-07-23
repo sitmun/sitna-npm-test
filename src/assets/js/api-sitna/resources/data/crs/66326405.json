@@ -1,0 +1,22 @@
+{
+  "accuracy": 10,
+  "area": "Mayotte - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    -11.33,
+    43.68,
+    -14.49,
+    46.7
+  ],
+  "code": "66326405",
+  "default_trans": 1916,
+  "kind": "CRS-GEOGCRS",
+  "name": "Combani 1950 (deg)",
+  "proj4": "",
+  "trans": [
+    1916,
+    5888
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

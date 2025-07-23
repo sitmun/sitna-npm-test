@@ -1,0 +1,21 @@
+{
+  "accuracy": "",
+  "area": "Angola - Cabinda.",
+  "authority": "EPSG",
+  "bbox": [
+    -4.38,
+    10.53,
+    -6.04,
+    13.1
+  ],
+  "code": "62646405",
+  "default_trans": 0,
+  "kind": "CRS-GEOGCRS",
+  "name": "Mhast (deg)",
+  "proj4": "",
+  "trans": [
+    1329
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

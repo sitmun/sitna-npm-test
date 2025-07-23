@@ -1,0 +1,21 @@
+{
+  "accuracy": 10,
+  "area": "Antarctica - Adelie Land - Petrels island.",
+  "authority": "EPSG",
+  "bbox": [
+    -66.1,
+    139.44,
+    -66.78,
+    141.5
+  ],
+  "code": "66366405",
+  "default_trans": 1921,
+  "kind": "CRS-GEOGCRS",
+  "name": "Petrels 1972 (deg)",
+  "proj4": "",
+  "trans": [
+    1921
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

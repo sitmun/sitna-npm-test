@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "Trinidad and Tobago - Tobago - onshore.",
+  "authority": "EPSG",
+  "bbox": [
+    11.41,
+    -60.9,
+    11.08,
+    -60.44
+  ],
+  "code": "61576405",
+  "default_trans": 0,
+  "kind": "CRS-GEOGCRS",
+  "name": "Mount Dillon (deg)",
+  "proj4": "",
+  "trans": [],
+  "unit": "degree",
+  "wkt": ""
+}

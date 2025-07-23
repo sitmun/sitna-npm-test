@@ -1,0 +1,22 @@
+{
+  "accuracy": 2,
+  "area": "World.",
+  "authority": "EPSG",
+  "bbox": [
+    90,
+    -180,
+    -90,
+    180
+  ],
+  "code": "63246405",
+  "default_trans": 1240,
+  "kind": "CRS-GEOGCRS",
+  "name": "WGS 72BE (deg)",
+  "proj4": "",
+  "trans": [
+    1239,
+    1240
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

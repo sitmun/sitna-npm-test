@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "China - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    53.56,
+    73.62,
+    16.7,
+    134.77
+  ],
+  "code": "66106405",
+  "default_trans": 0,
+  "kind": "CRS-GEOGCRS",
+  "name": "Xian 1980 (deg)",
+  "proj4": "",
+  "trans": [],
+  "unit": "degree",
+  "wkt": ""
+}

@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "United States (USA) - Michigan.",
+  "authority": "EPSG",
+  "bbox": [
+    48.32,
+    -90.42,
+    41.69,
+    -82.13
+  ],
+  "code": "62686405",
+  "default_trans": 0,
+  "kind": "CRS-GEOGCRS",
+  "name": "NAD27 Michigan (deg)",
+  "proj4": "",
+  "trans": [],
+  "unit": "degree",
+  "wkt": ""
+}

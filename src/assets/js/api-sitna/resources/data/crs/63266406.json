@@ -1,0 +1,24 @@
+{
+  "accuracy": "",
+  "area": "World.",
+  "authority": "EPSG",
+  "bbox": [
+    90,
+    -180,
+    -90,
+    180
+  ],
+  "code": "63266406",
+  "default_trans": 0,
+  "kind": "CRS-GEOGCRS",
+  "name": "WGS 84 (degH)",
+  "proj4": "",
+  "trans": [
+    9189,
+    9690,
+    9691,
+    15960
+  ],
+  "unit": "degree hemisphere",
+  "wkt": ""
+}

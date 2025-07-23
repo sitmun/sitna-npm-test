@@ -1,0 +1,24 @@
+{
+  "accuracy": "",
+  "area": "Spain - mainland, Balearic Islands, Canary Islands, Ceuta and Melila - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    46.26,
+    -21.93,
+    24.6,
+    6.3
+  ],
+  "code": "69036405",
+  "default_trans": 0,
+  "kind": "CRS-GEOGCRS",
+  "name": "Madrid 1870 (Madrid) (deg)",
+  "proj4": "",
+  "trans": [
+    1026,
+    1027,
+    1028,
+    8241
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

@@ -1,0 +1,22 @@
+{
+  "accuracy": 2.5,
+  "area": "Argentina - Comodoro Rivadavia area.",
+  "authority": "EPSG",
+  "bbox": [
+    -45.19,
+    -69.5,
+    -46.7,
+    -67.1
+  ],
+  "code": "61616405",
+  "default_trans": 9259,
+  "kind": "CRS-GEOGCRS",
+  "name": "Pampa del Castillo (deg)",
+  "proj4": "",
+  "trans": [
+    9259,
+    15845
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

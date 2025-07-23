@@ -1,0 +1,25 @@
+{
+  "accuracy": 5,
+  "area": "Portugal - western Azores onshore - Flores, Corvo.",
+  "authority": "EPSG",
+  "bbox": [
+    39.77,
+    -31.34,
+    39.3,
+    -31.02
+  ],
+  "code": "61826405",
+  "default_trans": 1982,
+  "kind": "CRS-GEOGCRS",
+  "name": "Azores Occidental 1939 (deg)",
+  "proj4": "",
+  "trans": [
+    1887,
+    1982,
+    5033,
+    5034,
+    5035
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

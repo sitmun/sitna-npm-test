@@ -1,0 +1,23 @@
+{
+  "accuracy": 7,
+  "area": "Oman - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    26.74,
+    51.99,
+    14.33,
+    63.38
+  ],
+  "code": "62326405",
+  "default_trans": 6908,
+  "kind": "CRS-GEOGCRS",
+  "name": "Fahud (deg)",
+  "proj4": "",
+  "trans": [
+    1256,
+    1438,
+    6908
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

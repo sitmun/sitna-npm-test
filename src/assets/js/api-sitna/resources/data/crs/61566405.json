@@ -1,0 +1,32 @@
+{
+  "accuracy": 6,
+  "area": "Czechia; Slovakia.",
+  "authority": "EPSG",
+  "bbox": [
+    51.06,
+    12.09,
+    47.73,
+    22.56
+  ],
+  "code": "61566405",
+  "default_trans": 15965,
+  "kind": "CRS-GEOGCRS",
+  "name": "S-JTSK (deg)",
+  "proj4": "",
+  "trans": [
+    1622,
+    1623,
+    1624,
+    1625,
+    4827,
+    4828,
+    4829,
+    4836,
+    5239,
+    5241,
+    8443,
+    15965
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

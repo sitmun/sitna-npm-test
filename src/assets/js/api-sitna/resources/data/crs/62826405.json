@@ -1,0 +1,23 @@
+{
+  "accuracy": 44,
+  "area": "Congo - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    3.72,
+    8.84,
+    -6.91,
+    18.65
+  ],
+  "code": "62826405",
+  "default_trans": 1200,
+  "kind": "CRS-GEOGCRS",
+  "name": "Pointe Noire (deg)",
+  "proj4": "",
+  "trans": [
+    1200,
+    1801,
+    1802
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

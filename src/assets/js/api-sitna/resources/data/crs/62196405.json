@@ -1,0 +1,21 @@
+{
+  "accuracy": 999,
+  "area": "Indonesia - Banga and Belitung Islands.",
+  "authority": "EPSG",
+  "bbox": [
+    -1.44,
+    105.07,
+    -3.3,
+    108.35
+  ],
+  "code": "62196405",
+  "default_trans": 1126,
+  "kind": "CRS-GEOGCRS",
+  "name": "Bukit Rimpah (deg)",
+  "proj4": "",
+  "trans": [
+    1126
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

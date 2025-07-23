@@ -1,0 +1,23 @@
+{
+  "accuracy": 1,
+  "area": "Reunion - onshore and offshore - Reunion island, Ile Europa, Bassas da India, Juan de Nova, Iles Glorieuses, and Ile Tromelin.",
+  "authority": "EPSG",
+  "bbox": [
+    -10.6,
+    37.58,
+    -25.92,
+    58.27
+  ],
+  "code": "66276405",
+  "default_trans": 1912,
+  "kind": "CRS-GEOGCRS",
+  "name": "RGR92 (deg)",
+  "proj4": "",
+  "trans": [
+    1912,
+    1933,
+    1964
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

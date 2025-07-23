@@ -1,0 +1,30 @@
+{
+  "accuracy": "",
+  "area": "France mainland onshore north of 53.5 grads North (48°09'N).",
+  "authority": "EPSG",
+  "bbox": [
+    51.14,
+    -4.87,
+    48.14,
+    8.23
+  ],
+  "code": "27591",
+  "default_trans": 1763,
+  "kind": "CRS-PROJCRS",
+  "name": "NTF (Paris) / Nord France",
+  "proj4": "+proj=lcc +lat_1=49.5 +lat_0=49.5 +lon_0=0 +k_0=0.999877341 +x_0=600000 +y_0=200000 +ellps=clrk80ign +pm=paris +units=m +no_defs +type=crs",
+  "trans": [
+    1467,
+    1468,
+    1763,
+    1764,
+    7810,
+    7811,
+    8094,
+    8186,
+    8188,
+    9337
+  ],
+  "unit": "metre",
+  "wkt": ""
+}

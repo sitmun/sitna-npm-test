@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "USA - Wisconsin",
+  "authority": "ESRI",
+  "bbox": [
+    47.31,
+    -92.89,
+    42.48,
+    -86.25
+  ],
+  "code": "103971",
+  "default_trans": 0,
+  "kind": "CRS-PROJCRS",
+  "name": "NAD 1983 HARN Adj. Wisconsin Wood (US foot) (DEPRECATED)",
+  "proj4": "+proj=lcc +lat_0=43.1513888888889 +lon_0=-90 +lat_1=44.1805555555556 +lat_2=44.5444444444444 +x_0=208483.616967234 +y_0=0 +a=6378437.651 +rf=298.271281273316 +units=us-ft +no_defs +type=crs",
+  "trans": [],
+  "unit": "",
+  "wkt": "PROJCS[\"NAD_1983_HARN_Adj_WI_Wood_Feet (deprecated)\",GEOGCS[\"GCS_NAD_1983_HARN_Adj_WI_Wood (deprecated)\",DATUM[\"D_NAD_1983_HARN_Adj_WI_WD\",SPHEROID[\"GRS_1980_Adj_WI_WD\",6378437.651,298.271281273316,AUTHORITY[\"ESRI\",\"107850\"]],AUTHORITY[\"ESRI\",\"106850\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"ESRI\",\"104871\"]],PROJECTION[\"Lambert_Conformal_Conic_2SP\"],PARAMETER[\"latitude_of_origin\",43.1513888888889],PARAMETER[\"central_meridian\",-90],PARAMETER[\"standard_parallel_1\",44.1805555555556],PARAMETER[\"standard_parallel_2\",44.5444444444444],PARAMETER[\"false_easting\",684000],PARAMETER[\"false_northing\",0],UNIT[\"US survey foot\",0.304800609601219,AUTHORITY[\"EPSG\",\"9003\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"ESRI\",\"103971\"]]"
+}

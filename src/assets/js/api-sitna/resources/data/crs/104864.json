@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "USA - Wisconsin",
+  "authority": "ESRI",
+  "bbox": [
+    47.31,
+    -92.89,
+    42.48,
+    -86.25
+  ],
+  "code": "104864",
+  "default_trans": 0,
+  "kind": "CRS-GEOGCRS",
+  "name": "NAD 1983 HARN Adj. Wisconsin Walworth",
+  "proj4": "+proj=longlat +a=6378377.411 +rf=298.268464304182 +no_defs +type=crs",
+  "trans": [],
+  "unit": "",
+  "wkt": "GEOGCS[\"GCS_NAD_1983_HARN_Adj_WI_Walworth (deprecated)\",DATUM[\"D_NAD_1983_HARN_Adj_WI_WW\",SPHEROID[\"GRS_1980_Adj_WI_WW\",6378377.411,298.268464304182,AUTHORITY[\"ESRI\",\"107844\"]],AUTHORITY[\"ESRI\",\"106844\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"ESRI\",\"104864\"]]"
+}

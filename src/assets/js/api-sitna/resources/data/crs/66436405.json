@@ -1,0 +1,21 @@
+{
+  "accuracy": 1,
+  "area": "New Caledonia - Belep.",
+  "authority": "EPSG",
+  "bbox": [
+    -19.5,
+    163.54,
+    -19.85,
+    163.75
+  ],
+  "code": "66436405",
+  "default_trans": 1931,
+  "kind": "CRS-GEOGCRS",
+  "name": "ST71 Belep (deg)",
+  "proj4": "",
+  "trans": [
+    1931
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

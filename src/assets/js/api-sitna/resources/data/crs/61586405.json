@@ -1,0 +1,22 @@
+{
+  "accuracy": 1,
+  "area": "Trinidad and Tobago - Trinidad - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    11.51,
+    -62.09,
+    9.83,
+    -60
+  ],
+  "code": "61586405",
+  "default_trans": 1555,
+  "kind": "CRS-GEOGCRS",
+  "name": "Naparima 1955 (deg)",
+  "proj4": "",
+  "trans": [
+    1555,
+    1556
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

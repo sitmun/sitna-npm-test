@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "USA - Wisconsin",
+  "authority": "ESRI",
+  "bbox": [
+    47.31,
+    -92.89,
+    42.48,
+    -86.25
+  ],
+  "code": "103944",
+  "default_trans": 0,
+  "kind": "CRS-PROJCRS",
+  "name": "NAD 1983 HARN Adj. Wisconsin Bayfield (US foot) (DEPRECATED)",
+  "proj4": "+proj=lcc +lat_0=45.3333333333333 +lon_0=-91.1527777777778 +lat_1=46.4138888888889 +lat_2=46.925 +x_0=228600.457200914 +y_0=0 +a=6378411.351 +rf=298.270051421254 +units=us-ft +no_defs +type=crs",
+  "trans": [],
+  "unit": "",
+  "wkt": "PROJCS[\"NAD_1983_HARN_Adj_WI_Bayfield_Feet (deprecated)\",GEOGCS[\"GCS_NAD_1983_HARN_Adj_WI_Bayfield (deprecated)\",DATUM[\"D_NAD_1983_HARN_Adj_WI_BF\",SPHEROID[\"GRS_1980_Adj_WI_BF\",6378411.351,298.270051421254,AUTHORITY[\"ESRI\",\"107802\"]],AUTHORITY[\"ESRI\",\"106802\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"ESRI\",\"104803\"]],PROJECTION[\"Lambert_Conformal_Conic_2SP\"],PARAMETER[\"latitude_of_origin\",45.3333333333333],PARAMETER[\"central_meridian\",-91.1527777777778],PARAMETER[\"standard_parallel_1\",46.4138888888889],PARAMETER[\"standard_parallel_2\",46.925],PARAMETER[\"false_easting\",750000],PARAMETER[\"false_northing\",0],UNIT[\"US survey foot\",0.304800609601219,AUTHORITY[\"EPSG\",\"9003\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"ESRI\",\"103944\"]]"
+}

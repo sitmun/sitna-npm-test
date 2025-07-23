@@ -1,0 +1,21 @@
+{
+  "accuracy": 999,
+  "area": "Algeria - onshore north of 32°N.",
+  "authority": "EPSG",
+  "bbox": [
+    37.14,
+    -2.95,
+    31.99,
+    9.09
+  ],
+  "code": "63046405",
+  "default_trans": 1294,
+  "kind": "CRS-GEOGCRS",
+  "name": "Voirol 1875 (deg)",
+  "proj4": "",
+  "trans": [
+    1294
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

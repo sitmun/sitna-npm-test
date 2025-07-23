@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "Korea, Republic of (South Korea)",
+  "authority": "ESRI",
+  "bbox": [
+    40.27,
+    122.71,
+    28.6,
+    134.28
+  ],
+  "code": "102080",
+  "default_trans": 0,
+  "kind": "CRS-PROJCRS",
+  "name": "KGD2002 Unified Coordinate System",
+  "proj4": "+proj=tmerc +lat_0=38 +lon_0=127.5 +k=0.9996 +x_0=1000000 +y_0=2000000 +ellps=GRS80 +units=m +no_defs +type=crs",
+  "trans": [],
+  "unit": "",
+  "wkt": "PROJCS[\"KGD2002_Unified_Coordinate_System (deprecated)\",GEOGCS[\"KGD2002\",DATUM[\"Korean_Geodetic_Datum_2002\",SPHEROID[\"GRS 1980\",6378137,298.257222101,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6737\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4737\"]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",38],PARAMETER[\"central_meridian\",127.5],PARAMETER[\"scale_factor\",0.9996],PARAMETER[\"false_easting\",1000000],PARAMETER[\"false_northing\",2000000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"ESRI\",\"102080\"]]"
+}

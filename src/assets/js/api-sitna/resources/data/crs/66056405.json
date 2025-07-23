@@ -1,0 +1,22 @@
+{
+  "accuracy": 10,
+  "area": "St Kitts and Nevis - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    17.67,
+    -63.63,
+    16.34,
+    -62.2
+  ],
+  "code": "66056405",
+  "default_trans": 1445,
+  "kind": "CRS-GEOGCRS",
+  "name": "St. Kitts 1955 (deg)",
+  "proj4": "",
+  "trans": [
+    1445,
+    15750
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

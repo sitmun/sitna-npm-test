@@ -1,0 +1,24 @@
+{
+  "accuracy": 6,
+  "area": "Indonesia - onshore - Bali, Java and western Sumatra.",
+  "authority": "EPSG",
+  "bbox": [
+    5.97,
+    95.16,
+    -8.91,
+    115.77
+  ],
+  "code": "62116405",
+  "default_trans": 8452,
+  "kind": "CRS-GEOGCRS",
+  "name": "Batavia (deg)",
+  "proj4": "",
+  "trans": [
+    1123,
+    1813,
+    1814,
+    8452
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

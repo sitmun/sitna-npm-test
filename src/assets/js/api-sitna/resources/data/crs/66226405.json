@@ -1,0 +1,23 @@
+{
+  "accuracy": 0.1,
+  "area": "Guadeloupe - onshore - Basse-Terre, Grande-Terre, La Desirade, Marie-Galante, Les Saintes.",
+  "authority": "EPSG",
+  "bbox": [
+    16.55,
+    -61.85,
+    15.8,
+    -60.97
+  ],
+  "code": "66226405",
+  "default_trans": 1905,
+  "kind": "CRS-GEOGCRS",
+  "name": "Sainte Anne (deg)",
+  "proj4": "",
+  "trans": [
+    1904,
+    1905,
+    5492
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

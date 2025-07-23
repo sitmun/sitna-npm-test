@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "Brunei",
+  "authority": "ESRI",
+  "bbox": [
+    6.31,
+    112.37,
+    4.01,
+    115.37
+  ],
+  "code": "102490",
+  "default_trans": 0,
+  "kind": "CRS-PROJCRS",
+  "name": "GDBD2009 GEORSO",
+  "proj4": "+proj=omerc +no_uoff +lat_0=4 +lonc=115 +alpha=53.31580995 +gamma=53.130102354156 +k=0.99984 +x_0=0 +y_0=0 +ellps=GRS80 +units=m +no_defs +type=crs",
+  "trans": [],
+  "unit": "",
+  "wkt": "PROJCS[\"GDBD2009_GEORSO (deprecated)\",GEOGCS[\"GDBD2009\",DATUM[\"Geocentric_Datum_Brunei_Darussalam_2009\",SPHEROID[\"GRS 1980\",6378137,298.257222101,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"1056\"]],PRIMEM[\"Greenwich\",0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Hotine_Oblique_Mercator\"],PARAMETER[\"latitude_of_center\",4],PARAMETER[\"longitude_of_center\",115],PARAMETER[\"azimuth\",53.31580995],PARAMETER[\"rectified_grid_angle\",53.130102354156],PARAMETER[\"scale_factor\",0.99984],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"ESRI\",\"102490\"]]"
+}

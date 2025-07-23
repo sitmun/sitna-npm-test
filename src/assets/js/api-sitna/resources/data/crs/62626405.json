@@ -1,0 +1,21 @@
+{
+  "accuracy": 44,
+  "area": "Eritrea - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    18.1,
+    36.44,
+    12.36,
+    43.31
+  ],
+  "code": "62626405",
+  "default_trans": 1165,
+  "kind": "CRS-GEOGCRS",
+  "name": "Massawa (deg)",
+  "proj4": "",
+  "trans": [
+    1165
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

@@ -1,0 +1,22 @@
+{
+  "accuracy": 14,
+  "area": "Tunisia - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    38.41,
+    7.49,
+    30.23,
+    13.67
+  ],
+  "code": "62236405",
+  "default_trans": 1130,
+  "kind": "CRS-GEOGCRS",
+  "name": "Carthage (deg)",
+  "proj4": "",
+  "trans": [
+    1130,
+    1538
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

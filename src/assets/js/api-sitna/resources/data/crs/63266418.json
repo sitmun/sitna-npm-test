@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "World.",
+  "authority": "EPSG",
+  "bbox": [
+    90,
+    -180,
+    -90,
+    180
+  ],
+  "code": "63266418",
+  "default_trans": 0,
+  "kind": "CRS-GEOG3DCRS",
+  "name": "WGS 84 (3D HDM)",
+  "proj4": "",
+  "trans": [],
+  "unit": "hemisphere degree minute",
+  "wkt": ""
+}

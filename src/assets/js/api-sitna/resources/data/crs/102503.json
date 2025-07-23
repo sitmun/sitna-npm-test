@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "USA - Oregon - Bend-Redmond-Prineville",
+  "authority": "ESRI",
+  "bbox": [
+    44.98,
+    -121.88,
+    43.76,
+    -119.79
+  ],
+  "code": "102503",
+  "default_trans": 0,
+  "kind": "CRS-PROJCRS",
+  "name": "OCRS Bend-Redmond-Prineville NAD 1983 CORS96 LCC (Feet Intl)",
+  "proj4": "+proj=lcc +lat_1=44.6666666666667 +lat_0=44.6666666666667 +lon_0=-121.25 +k_0=1.00012 +x_0=80000 +y_0=130000 +ellps=GRS80 +units=ft +no_defs +type=crs",
+  "trans": [],
+  "unit": "",
+  "wkt": "PROJCS[\"OCRS_Bend-Redmond-Prineville_NAD_1983_CORS96_LCC_Feet_Intl (deprecated)\",GEOGCS[\"NAD83(CORS96)\",DATUM[\"NAD83_Continuously_Operating_Reference_Station_1996\",SPHEROID[\"GRS 1980\",6378137,298.257222101,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"1133\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"6783\"]],PROJECTION[\"Lambert_Conformal_Conic_1SP\"],PARAMETER[\"latitude_of_origin\",44.6666666666667],PARAMETER[\"central_meridian\",-121.25],PARAMETER[\"scale_factor\",1.00012],PARAMETER[\"false_easting\",262467.19160105],PARAMETER[\"false_northing\",426509.186351706],UNIT[\"foot\",0.3048,AUTHORITY[\"EPSG\",\"9002\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"ESRI\",\"102503\"]]"
+}

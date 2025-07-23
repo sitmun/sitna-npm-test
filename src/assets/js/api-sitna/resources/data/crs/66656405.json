@@ -1,0 +1,36 @@
+{
+  "accuracy": 1,
+  "area": "Portugal - central Azores onshore - Faial, Graciosa, Pico, Sao Jorge, Terceira.",
+  "authority": "EPSG",
+  "bbox": [
+    39.14,
+    -28.9,
+    38.32,
+    -26.97
+  ],
+  "code": "66656405",
+  "default_trans": 1981,
+  "kind": "CRS-GEOGCRS",
+  "name": "Azores Central 1995 (deg)",
+  "proj4": "",
+  "trans": [
+    1972,
+    1973,
+    1974,
+    1975,
+    1976,
+    1977,
+    1978,
+    1979,
+    1980,
+    1981,
+    5027,
+    5028,
+    5029,
+    5030,
+    5031,
+    5032
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

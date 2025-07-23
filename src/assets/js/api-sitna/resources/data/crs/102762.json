@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "Congo DR (Zaire) - Katanga",
+  "authority": "ESRI",
+  "bbox": [
+    -4.99,
+    21.74,
+    -13.46,
+    30.78
+  ],
+  "code": "102762",
+  "default_trans": 0,
+  "kind": "CRS-PROJCRS",
+  "name": "Katanga 1955 Katanga Lambert",
+  "proj4": "+proj=lcc +lat_0=-9 +lon_0=26 +lat_1=-6.5 +lat_2=-11.5 +x_0=500000 +y_0=500000 +ellps=clrk66 +units=m +no_defs +type=crs",
+  "trans": [],
+  "unit": "",
+  "wkt": "PROJCS[\"Katanga_1955_Katanga_Lambert (deprecated)\",GEOGCS[\"Katanga 1955\",DATUM[\"Katanga_1955\",SPHEROID[\"Clarke 1866\",6378206.4,294.978698213898,AUTHORITY[\"EPSG\",\"7008\"]],AUTHORITY[\"EPSG\",\"6695\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4695\"]],PROJECTION[\"Lambert_Conformal_Conic_2SP\"],PARAMETER[\"latitude_of_origin\",-9],PARAMETER[\"central_meridian\",26],PARAMETER[\"standard_parallel_1\",-6.5],PARAMETER[\"standard_parallel_2\",-11.5],PARAMETER[\"false_easting\",500000],PARAMETER[\"false_northing\",500000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"ESRI\",\"102762\"]]"
+}

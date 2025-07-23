@@ -1,0 +1,26 @@
+{
+  "accuracy": 1,
+  "area": "China - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    53.56,
+    73.62,
+    16.7,
+    134.77
+  ],
+  "code": "62146405",
+  "default_trans": 15921,
+  "kind": "CRS-GEOGCRS",
+  "name": "Beijing 1954 (deg)",
+  "proj4": "",
+  "trans": [
+    15918,
+    15919,
+    15920,
+    15921,
+    15935,
+    15936
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

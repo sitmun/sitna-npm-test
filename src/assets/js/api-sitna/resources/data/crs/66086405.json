@@ -1,0 +1,24 @@
+{
+  "accuracy": 2,
+  "area": "Canada - Ontario.",
+  "authority": "EPSG",
+  "bbox": [
+    56.9,
+    -95.16,
+    41.67,
+    -74.35
+  ],
+  "code": "66086405",
+  "default_trans": 1690,
+  "kind": "CRS-GEOGCRS",
+  "name": "NAD27(76) (deg)",
+  "proj4": "",
+  "trans": [
+    1463,
+    1690,
+    8406,
+    9109
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

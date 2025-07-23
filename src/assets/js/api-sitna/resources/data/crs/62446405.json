@@ -1,0 +1,21 @@
+{
+  "accuracy": 35,
+  "area": "Sri Lanka - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    11.45,
+    77.02,
+    2.58,
+    85.24
+  ],
+  "code": "62446405",
+  "default_trans": 1157,
+  "kind": "CRS-GEOGCRS",
+  "name": "Kandawala (deg)",
+  "proj4": "",
+  "trans": [
+    1157
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

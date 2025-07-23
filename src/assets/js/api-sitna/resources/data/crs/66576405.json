@@ -1,0 +1,21 @@
+{
+  "accuracy": 10,
+  "area": "Iceland - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    69.59,
+    -30.87,
+    59.96,
+    -5.55
+  ],
+  "code": "66576405",
+  "default_trans": 1994,
+  "kind": "CRS-GEOGCRS",
+  "name": "Reykjavik 1900 (deg)",
+  "proj4": "",
+  "trans": [
+    1994
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

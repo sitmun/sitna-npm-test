@@ -1,0 +1,23 @@
+{
+  "accuracy": 1,
+  "area": "Argentina - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    -21.78,
+    -73.59,
+    -58.41,
+    -52.63
+  ],
+  "code": "61906405",
+  "default_trans": 1773,
+  "kind": "CRS-GEOGCRS",
+  "name": "POSGAR 98 (deg)",
+  "proj4": "",
+  "trans": [
+    1773,
+    1774,
+    15780
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

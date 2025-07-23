@@ -1,0 +1,31 @@
+{
+  "accuracy": 0.2,
+  "area": "United States (USA) - Hawaii - main islands onshore.",
+  "authority": "EPSG",
+  "bbox": [
+    22.29,
+    -160.3,
+    18.87,
+    -154.74
+  ],
+  "code": "61356405",
+  "default_trans": 1454,
+  "kind": "CRS-GEOGCRS",
+  "name": "Old Hawaiian (deg)",
+  "proj4": "",
+  "trans": [
+    1454,
+    8386,
+    8508,
+    8561,
+    8582,
+    15824,
+    15825,
+    15826,
+    15827,
+    15828,
+    15840
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

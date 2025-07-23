@@ -1,0 +1,24 @@
+{
+  "accuracy": 1,
+  "area": "The Democratic Republic of the Congo (Zaire) - Katanga.",
+  "authority": "EPSG",
+  "bbox": [
+    -4.99,
+    21.74,
+    -13.46,
+    30.78
+  ],
+  "code": "3314",
+  "default_trans": 4068,
+  "kind": "CRS-PROJCRS",
+  "name": "Katanga 1955 / Katanga Lambert",
+  "proj4": "+proj=lcc +lat_0=0 +lon_0=26 +lat_1=-6.5 +lat_2=-11.5 +x_0=0 +y_0=0 +ellps=clrk66 +towgs84=-102.283,-10.277,-257.396,-3.976,-0.002,-6.203,12.315 +units=m +no_defs +type=crs",
+  "trans": [
+    4065,
+    4066,
+    4067,
+    4068
+  ],
+  "unit": "metre",
+  "wkt": "PROJCS[\"Katanga 1955 / Katanga Lambert\",GEOGCS[\"Katanga 1955\",DATUM[\"Katanga_1955\",SPHEROID[\"Clarke 1866\",6378206.4,294.978698213898],TOWGS84[-102.283,-10.277,-257.396,-3.976,-0.002,-6.203,12.315]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4695\"]],PROJECTION[\"Lambert_Conformal_Conic_2SP\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",26],PARAMETER[\"standard_parallel_1\",-6.5],PARAMETER[\"standard_parallel_2\",-11.5],PARAMETER[\"false_easting\",0],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"EPSG\",\"3314\"]]"
+}

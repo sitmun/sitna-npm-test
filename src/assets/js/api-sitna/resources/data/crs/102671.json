@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "USA - Illinois - SPCS - E",
+  "authority": "ESRI",
+  "bbox": [
+    42.5,
+    -89.27,
+    37.06,
+    -87.02
+  ],
+  "code": "102671",
+  "default_trans": 0,
+  "kind": "CRS-PROJCRS",
+  "name": "NAD 1983 SPCS Illinois East (Feet)",
+  "proj4": "+proj=tmerc +lat_0=36.6666666666667 +lon_0=-88.3333333333333 +k=0.999975 +x_0=300000 +y_0=0 +datum=NAD83 +units=us-ft +no_defs +type=crs",
+  "trans": [],
+  "unit": "",
+  "wkt": "PROJCS[\"NAD_1983_StatePlane_Illinois_East_FIPS_1201_Feet (deprecated)\",GEOGCS[\"NAD83\",DATUM[\"North_American_Datum_1983\",SPHEROID[\"GRS 1980\",6378137,298.257222101,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6269\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4269\"]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",36.6666666666667],PARAMETER[\"central_meridian\",-88.3333333333333],PARAMETER[\"scale_factor\",0.999975],PARAMETER[\"false_easting\",984250],PARAMETER[\"false_northing\",0],UNIT[\"US survey foot\",0.304800609601219,AUTHORITY[\"EPSG\",\"9003\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"ESRI\",\"102671\"]]"
+}

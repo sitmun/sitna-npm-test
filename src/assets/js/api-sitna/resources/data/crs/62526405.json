@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "Togo - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    11.14,
+    -0.15,
+    2.91,
+    2.42
+  ],
+  "code": "62526405",
+  "default_trans": 0,
+  "kind": "CRS-GEOGCRS",
+  "name": "Lome (deg)",
+  "proj4": "",
+  "trans": [],
+  "unit": "degree",
+  "wkt": ""
+}

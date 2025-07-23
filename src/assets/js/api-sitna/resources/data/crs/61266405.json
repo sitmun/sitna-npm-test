@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "Lithuania - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    56.45,
+    19.02,
+    53.89,
+    26.82
+  ],
+  "code": "61266405",
+  "default_trans": 0,
+  "kind": "CRS-GEOGCRS",
+  "name": "LKS94 (ETRS89) (deg)",
+  "proj4": "",
+  "trans": [],
+  "unit": "degree",
+  "wkt": ""
+}

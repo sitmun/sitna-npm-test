@@ -1,0 +1,22 @@
+{
+  "accuracy": 10,
+  "area": "Wallis and Futuna - Wallis.",
+  "authority": "EPSG",
+  "bbox": [
+    -13.16,
+    -176.25,
+    -13.41,
+    -176.07
+  ],
+  "code": "66396405",
+  "default_trans": 15847,
+  "kind": "CRS-GEOGCRS",
+  "name": "MOP78 (deg)",
+  "proj4": "",
+  "trans": [
+    1925,
+    15847
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

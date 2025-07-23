@@ -1,0 +1,31 @@
+{
+  "accuracy": 3,
+  "area": "Poland - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    55.93,
+    14.14,
+    49,
+    24.15
+  ],
+  "code": "61796405",
+  "default_trans": 15995,
+  "kind": "CRS-GEOGCRS",
+  "name": "Pulkovo 1942(58) (deg)",
+  "proj4": "",
+  "trans": [
+    1644,
+    1645,
+    7835,
+    7836,
+    15496,
+    15497,
+    15993,
+    15994,
+    15995,
+    15997,
+    15999
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

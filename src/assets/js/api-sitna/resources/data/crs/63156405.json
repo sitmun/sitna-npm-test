@@ -1,0 +1,21 @@
+{
+  "accuracy": 30,
+  "area": "Guinea - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    12.68,
+    -18.26,
+    7.19,
+    -7.65
+  ],
+  "code": "63156405",
+  "default_trans": 1517,
+  "kind": "CRS-GEOGCRS",
+  "name": "Conakry 1905 (deg)",
+  "proj4": "",
+  "trans": [
+    1517
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

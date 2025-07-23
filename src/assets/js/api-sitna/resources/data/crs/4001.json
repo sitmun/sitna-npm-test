@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "Not specified.",
+  "authority": "EPSG",
+  "bbox": [
+    90,
+    -180,
+    -90,
+    180
+  ],
+  "code": "4001",
+  "default_trans": 0,
+  "kind": "CRS-GEOGCRS",
+  "name": "Unknown datum based upon the Airy 1830 ellipsoid",
+  "proj4": "+proj=longlat +ellps=airy +no_defs +type=crs",
+  "trans": [],
+  "unit": "degree (supplier to define representation)",
+  "wkt": "GEOGCS[\"Unknown datum based upon the Airy 1830 ellipsoid (deprecated)\",DATUM[\"Not_specified_based_on_Airy_1830_ellipsoid\",SPHEROID[\"Airy 1830\",6377563.396,299.3249646,AUTHORITY[\"EPSG\",\"7001\"]],AUTHORITY[\"EPSG\",\"6001\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4001\"]]"
+}

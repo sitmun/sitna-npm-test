@@ -1,0 +1,21 @@
+{
+  "accuracy": 44,
+  "area": "Portugal - eastern Azores onshore - Sao Miguel, Santa Maria, Formigas.",
+  "authority": "EPSG",
+  "bbox": [
+    37.96,
+    -25.92,
+    36.87,
+    -24.72
+  ],
+  "code": "61846405",
+  "default_trans": 1885,
+  "kind": "CRS-GEOGCRS",
+  "name": "Azores Oriental 1940 (deg)",
+  "proj4": "",
+  "trans": [
+    1885
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

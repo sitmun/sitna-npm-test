@@ -1,0 +1,21 @@
+{
+  "accuracy": 26,
+  "area": "Taiwan, Republic of China - onshore and offshore - Taiwan Island, Penghu (Pescadores) Islands.",
+  "authority": "EPSG",
+  "bbox": [
+    26.96,
+    114.32,
+    17.36,
+    123.61
+  ],
+  "code": "62366405",
+  "default_trans": 1152,
+  "kind": "CRS-GEOGCRS",
+  "name": "Hu Tzu Shan (deg)",
+  "proj4": "",
+  "trans": [
+    1152
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

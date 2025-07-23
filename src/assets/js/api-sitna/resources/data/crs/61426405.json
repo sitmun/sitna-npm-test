@@ -1,0 +1,21 @@
+{
+  "accuracy": 15,
+  "area": "Côte d'Ivoire (Ivory Coast) - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    10.74,
+    -8.61,
+    1.02,
+    -2.48
+  ],
+  "code": "61426405",
+  "default_trans": 1469,
+  "kind": "CRS-GEOGCRS",
+  "name": "Locodjo 1965 (deg)",
+  "proj4": "",
+  "trans": [
+    1469
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

@@ -1,0 +1,21 @@
+{
+  "accuracy": 10,
+  "area": "Dominica - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    16.62,
+    -62.82,
+    14.48,
+    -57.52
+  ],
+  "code": "66026405",
+  "default_trans": 1442,
+  "kind": "CRS-GEOGCRS",
+  "name": "Dominica 1945 (deg)",
+  "proj4": "",
+  "trans": [
+    1442
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

@@ -1,0 +1,25 @@
+{
+  "accuracy": 2,
+  "area": "New Caledonia - Loyalty Islands - Mare.",
+  "authority": "EPSG",
+  "bbox": [
+    -21.32,
+    167.75,
+    -21.71,
+    168.19
+  ],
+  "code": "66416405",
+  "default_trans": 15901,
+  "kind": "CRS-GEOGCRS",
+  "name": "IGN53 Mare (deg)",
+  "proj4": "",
+  "trans": [
+    1928,
+    15783,
+    15884,
+    15891,
+    15901
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

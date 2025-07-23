@@ -1,0 +1,31 @@
+{
+  "accuracy": 5,
+  "area": "Libya - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    35.23,
+    9.31,
+    19.5,
+    26.21
+  ],
+  "code": "61596405",
+  "default_trans": 15909,
+  "kind": "CRS-GEOGCRS",
+  "name": "ELD79 (deg)",
+  "proj4": "",
+  "trans": [
+    1859,
+    1860,
+    1861,
+    1862,
+    1863,
+    15707,
+    15778,
+    15909,
+    15910,
+    15923,
+    15924
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

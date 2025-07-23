@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "USA - Minnesota - SPCS - S",
+  "authority": "ESRI",
+  "bbox": [
+    45.59,
+    -96.85,
+    43.49,
+    -91.21
+  ],
+  "code": "102293",
+  "default_trans": 0,
+  "kind": "CRS-PROJCRS",
+  "name": "NAD 1983 HARN SPCS Minnesota South",
+  "proj4": "+proj=lcc +lat_0=43 +lon_0=-94 +lat_1=43.7833333333333 +lat_2=45.2166666666667 +x_0=800000 +y_0=100000 +ellps=GRS80 +units=m +no_defs +type=crs",
+  "trans": [],
+  "unit": "",
+  "wkt": "PROJCS[\"NAD_1983_HARN_StatePlane_Minnesota_South_FIPS_2203 (deprecated)\",GEOGCS[\"NAD83(HARN)\",DATUM[\"NAD83_High_Accuracy_Reference_Network\",SPHEROID[\"GRS 1980\",6378137,298.257222101,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6152\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4152\"]],PROJECTION[\"Lambert_Conformal_Conic_2SP\"],PARAMETER[\"latitude_of_origin\",43],PARAMETER[\"central_meridian\",-94],PARAMETER[\"standard_parallel_1\",43.7833333333333],PARAMETER[\"standard_parallel_2\",45.2166666666667],PARAMETER[\"false_easting\",800000],PARAMETER[\"false_northing\",100000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"ESRI\",\"102293\"]]"
+}

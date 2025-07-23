@@ -1,0 +1,26 @@
+{
+  "accuracy": 1,
+  "area": "Iran - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    39.78,
+    44.03,
+    23.34,
+    63.34
+  ],
+  "code": "61546405",
+  "default_trans": 1514,
+  "kind": "CRS-GEOGCRS",
+  "name": "ED50(ED77) (deg)",
+  "proj4": "",
+  "trans": [
+    1141,
+    1514,
+    1856,
+    1857,
+    1858,
+    15745
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

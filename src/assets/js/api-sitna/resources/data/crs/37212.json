@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "Japan - Iwo Jima",
+  "authority": "ESRI",
+  "bbox": [
+    24.89,
+    141.2,
+    24.67,
+    141.42
+  ],
+  "code": "37212",
+  "default_trans": 0,
+  "kind": "CRS-GEOGCRS",
+  "name": "Astro Beacon E 1945 (Iwo Jima 1945)",
+  "proj4": "+proj=longlat +ellps=intl +no_defs +type=crs",
+  "trans": [],
+  "unit": "",
+  "wkt": "GEOGCS[\"GCS_Beacon_E_1945 (deprecated)\",DATUM[\"D_Beacon_E_1945\",SPHEROID[\"International 1924\",6378388,297,AUTHORITY[\"EPSG\",\"7022\"]],AUTHORITY[\"ESRI\",\"106212\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"ESRI\",\"37212\"]]"
+}

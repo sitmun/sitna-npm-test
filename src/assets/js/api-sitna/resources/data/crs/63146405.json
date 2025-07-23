@@ -1,0 +1,36 @@
+{
+  "accuracy": 1,
+  "area": "Germany - onshore - Baden-Wurtemberg, Bayern, Hessen, Niedersachsen, Nordrhein-Westfalen, Rheinland-Pfalz, Saarland, Schleswig-Holstein. Also former DDR states of Sachsen and Thuringen by transformation.",
+  "authority": "EPSG",
+  "bbox": [
+    55.06,
+    5.87,
+    47.27,
+    15.03
+  ],
+  "code": "63146405",
+  "default_trans": 15949,
+  "kind": "CRS-GEOGCRS",
+  "name": "DHDN (deg)",
+  "proj4": "",
+  "trans": [
+    1309,
+    1673,
+    1776,
+    1777,
+    1778,
+    1779,
+    1780,
+    1781,
+    1782,
+    8234,
+    9310,
+    9338,
+    9940,
+    15869,
+    15948,
+    15949
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

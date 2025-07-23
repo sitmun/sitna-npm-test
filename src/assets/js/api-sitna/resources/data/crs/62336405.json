@@ -1,0 +1,21 @@
+{
+  "accuracy": "",
+  "area": "Maldives - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    8.1,
+    69.29,
+    -3.47,
+    77.08
+  ],
+  "code": "62336405",
+  "default_trans": 0,
+  "kind": "CRS-GEOGCRS",
+  "name": "Gandajika 1970 (deg)",
+  "proj4": "",
+  "trans": [
+    1894
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

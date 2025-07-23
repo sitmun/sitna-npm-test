@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "Colombia - Tunja - Boyaca",
+  "authority": "ESRI",
+  "bbox": [
+    6.05,
+    -73.86666666666666,
+    5.033333333333333,
+    -72.85
+  ],
+  "code": "102773",
+  "default_trans": 0,
+  "kind": "CRS-PROJCRS",
+  "name": "MAGNA Tunja Boyaca 1997",
+  "proj4": "+proj=col_urban +lat_0=5.53419473888889 +lon_0=-73.3519389 +x_0=1080514.91 +y_0=1103772.028 +h_0=2800 +ellps=GRS80 +units=m +no_defs +type=crs",
+  "trans": [],
+  "unit": "",
+  "wkt": ""
+}

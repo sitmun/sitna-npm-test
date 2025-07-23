@@ -1,0 +1,24 @@
+{
+  "accuracy": 1.5,
+  "area": "Uruguay - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    -30.09,
+    -58.49,
+    -37.77,
+    -50.01
+  ],
+  "code": "63096405",
+  "default_trans": 5386,
+  "kind": "CRS-GEOGCRS",
+  "name": "Yacare (deg)",
+  "proj4": "",
+  "trans": [
+    1234,
+    5385,
+    5386,
+    15963
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

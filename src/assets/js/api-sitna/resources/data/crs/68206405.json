@@ -1,0 +1,22 @@
+{
+  "accuracy": "",
+  "area": "Indonesia - onshore - Bali, Java and western Sumatra.",
+  "authority": "EPSG",
+  "bbox": [
+    5.97,
+    95.16,
+    -8.91,
+    115.77
+  ],
+  "code": "68206405",
+  "default_trans": 1883,
+  "kind": "CRS-GEOGCRS",
+  "name": "Segara (Jakarta) (deg)",
+  "proj4": "",
+  "trans": [
+    1883,
+    8641
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

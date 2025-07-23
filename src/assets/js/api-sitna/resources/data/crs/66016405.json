@@ -1,0 +1,22 @@
+{
+  "accuracy": 10,
+  "area": "Antigua island - onshore.",
+  "authority": "EPSG",
+  "bbox": [
+    17.22,
+    -61.95,
+    16.94,
+    -61.61
+  ],
+  "code": "66016405",
+  "default_trans": 1441,
+  "kind": "CRS-GEOGCRS",
+  "name": "Antigua 1943 (deg)",
+  "proj4": "",
+  "trans": [
+    1441,
+    15811
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

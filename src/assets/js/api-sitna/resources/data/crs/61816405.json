@@ -1,0 +1,32 @@
+{
+  "accuracy": 1,
+  "area": "Luxembourg.",
+  "authority": "EPSG",
+  "bbox": [
+    50.19,
+    5.73,
+    49.44,
+    6.53
+  ],
+  "code": "61816405",
+  "default_trans": 5484,
+  "kind": "CRS-GEOGCRS",
+  "name": "Luxembourg 1930 (deg)",
+  "proj4": "",
+  "trans": [
+    1078,
+    1079,
+    1642,
+    1643,
+    5483,
+    5484,
+    5485,
+    5486,
+    9898,
+    9899,
+    9937,
+    9938
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

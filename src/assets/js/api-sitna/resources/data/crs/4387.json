@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "Iceland - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    69.59,
+    -30.87,
+    59.96,
+    -5.55
+  ],
+  "code": "4387",
+  "default_trans": 0,
+  "kind": "CRS-GCENCRS",
+  "name": "ISN93 (geocentric)",
+  "proj4": "+proj=geocent +ellps=GRS80 +units=m +no_defs +type=crs",
+  "trans": [],
+  "unit": "metre",
+  "wkt": "GEOCCS[\"ISN93 (geocentric) (deprecated)\",DATUM[\"Islands_Net_1993\",SPHEROID[\"GRS 1980\",6378137,298.257222101,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"6659\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Geocentric X\",OTHER],AXIS[\"Geocentric Y\",OTHER],AXIS[\"Geocentric Z\",NORTH],AUTHORITY[\"EPSG\",\"4387\"]]"
+}

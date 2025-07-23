@@ -1,0 +1,22 @@
+{
+  "accuracy": "",
+  "area": "Romania - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    48.27,
+    20.26,
+    43.44,
+    31.41
+  ],
+  "code": "31700",
+  "default_trans": 0,
+  "kind": "CRS-PROJCRS",
+  "name": "Dealul Piscului 1970/ Stereo 70",
+  "proj4": "+proj=sterea +lat_0=46 +lon_0=25 +k=0.99975 +x_0=500000 +y_0=500000 +ellps=krass +units=m +no_defs +type=crs",
+  "trans": [
+    1097,
+    1996
+  ],
+  "unit": "metre",
+  "wkt": "PROJCS[\"Dealul Piscului 1970/ Stereo 70 (deprecated)\",GEOGCS[\"Dealul Piscului 1970 (deprecated)\",DATUM[\"Dealul_Piscului_1970\",SPHEROID[\"Krassowsky 1940\",6378245,298.3,AUTHORITY[\"EPSG\",\"7024\"]],AUTHORITY[\"EPSG\",\"6317\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4317\"]],PROJECTION[\"Oblique_Stereographic\"],PARAMETER[\"latitude_of_origin\",46],PARAMETER[\"central_meridian\",25],PARAMETER[\"scale_factor\",0.99975],PARAMETER[\"false_easting\",500000],PARAMETER[\"false_northing\",500000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"31700\"]]"
+}

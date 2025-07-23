@@ -1,0 +1,25 @@
+{
+  "accuracy": 1,
+  "area": "French Polynesia - Society Islands - Bora Bora, Huahine, Raiatea and Tahaa.",
+  "authority": "EPSG",
+  "bbox": [
+    -16.17,
+    -151.91,
+    -16.96,
+    -150.89
+  ],
+  "code": "66296405",
+  "default_trans": 8834,
+  "kind": "CRS-GEOGCRS",
+  "name": "Tahaa (deg)",
+  "proj4": "",
+  "trans": [
+    1913,
+    8833,
+    8834,
+    15758,
+    15770
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

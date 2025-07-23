@@ -1,0 +1,23 @@
+{
+  "accuracy": "",
+  "area": "Colombia - onshore and offshore. Includes San Andres y Providencia, Malpelo Islands, Roncador Bank, Serrana Bank and Serranilla Bank.",
+  "authority": "EPSG",
+  "bbox": [
+    15.51,
+    -84.77,
+    -4.23,
+    -66.87
+  ],
+  "code": "68026405",
+  "default_trans": 1755,
+  "kind": "CRS-GEOGCRS",
+  "name": "Bogota 1975 (Bogota) (deg)",
+  "proj4": "",
+  "trans": [
+    1258,
+    1755,
+    8174
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

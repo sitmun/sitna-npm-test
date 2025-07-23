@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "Indonesia - Kalimantan - onshore east coastal area including Mahakam delta coastal and offshore shelf areas.",
+  "authority": "EPSG",
+  "bbox": [
+    4.29,
+    114.55,
+    -4.24,
+    119.06
+  ],
+  "code": "62956405",
+  "default_trans": 0,
+  "kind": "CRS-GEOGCRS",
+  "name": "Serindung (deg)",
+  "proj4": "",
+  "trans": [],
+  "unit": "degree",
+  "wkt": ""
+}

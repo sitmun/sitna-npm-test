@@ -1,0 +1,25 @@
+{
+  "accuracy": 1,
+  "area": "New Caledonia - Loyalty Islands - Lifou.",
+  "authority": "EPSG",
+  "bbox": [
+    -20.62,
+    166.98,
+    -21.24,
+    167.52
+  ],
+  "code": "66336405",
+  "default_trans": 15902,
+  "kind": "CRS-GEOGCRS",
+  "name": "IGN56 Lifou (deg)",
+  "proj4": "",
+  "trans": [
+    1917,
+    1927,
+    15883,
+    15890,
+    15902
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "New Caledonia - onshore and offshore. Isle de Pins, Loyalty Islands, Huon Islands, Belep archipelago, Chesterfield Islands, and Walpole.",
+  "authority": "EPSG",
+  "bbox": [
+    -14.83,
+    156.25,
+    -26.45,
+    174.28
+  ],
+  "code": "66456413",
+  "default_trans": 0,
+  "kind": "CRS-GEOG3DCRS",
+  "name": "RGNC 1991 (3D deg)",
+  "proj4": "",
+  "trans": [],
+  "unit": "degree",
+  "wkt": ""
+}

@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "Colombia - Mitu - Vaupes",
+  "authority": "ESRI",
+  "bbox": [
+    1.75,
+    -70.75,
+    0.7333333333333333,
+    -69.73333333333333
+  ],
+  "code": "102797",
+  "default_trans": 0,
+  "kind": "CRS-PROJCRS",
+  "name": "MAGNA Mitu Vaupes 2011",
+  "proj4": "+proj=col_urban +lat_0=1.24996936666667 +lon_0=-70.2354616555556 +x_0=1093717.398 +y_0=629997.236 +h_0=170 +ellps=GRS80 +units=m +no_defs +type=crs",
+  "trans": [],
+  "unit": "",
+  "wkt": ""
+}

@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "Mozambique - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    -10.09,
+    30.21,
+    -27.71,
+    43.03
+  ],
+  "code": "4357",
+  "default_trans": 0,
+  "kind": "CRS-GEOG3DCRS",
+  "name": "Moznet (3D)",
+  "proj4": "+proj=longlat +ellps=WGS84 +no_defs +type=crs",
+  "trans": [],
+  "unit": "degree minute second hemisphere",
+  "wkt": ""
+}

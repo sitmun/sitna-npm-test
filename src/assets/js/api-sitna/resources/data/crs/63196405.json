@@ -1,0 +1,22 @@
+{
+  "accuracy": 1,
+  "area": "Kuwait - Kuwait City.",
+  "authority": "EPSG",
+  "bbox": [
+    29.45,
+    47.78,
+    29.17,
+    48.16
+  ],
+  "code": "63196405",
+  "default_trans": 1062,
+  "kind": "CRS-GEOGCRS",
+  "name": "KUDAMS (deg)",
+  "proj4": "",
+  "trans": [
+    1061,
+    1062
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

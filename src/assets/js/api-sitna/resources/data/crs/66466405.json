@@ -1,0 +1,21 @@
+{
+  "accuracy": 999,
+  "area": "Comoros - onshore and offshore. Includes Anjouan, Grande Comore, Moheli and other islands.",
+  "authority": "EPSG",
+  "bbox": [
+    -8.01,
+    41.93,
+    -14.43,
+    45.79
+  ],
+  "code": "66466405",
+  "default_trans": 5521,
+  "kind": "CRS-GEOGCRS",
+  "name": "Grand Comoros (deg)",
+  "proj4": "",
+  "trans": [
+    5521
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

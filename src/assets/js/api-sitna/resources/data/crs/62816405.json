@@ -1,0 +1,23 @@
+{
+  "accuracy": 2,
+  "area": "Israel - onshore; Jordan; Palestine Territory - onshore.",
+  "authority": "EPSG",
+  "bbox": [
+    33.38,
+    34.17,
+    29.18,
+    39.31
+  ],
+  "code": "62816405",
+  "default_trans": 1074,
+  "kind": "CRS-GEOGCRS",
+  "name": "Palestine 1923 (deg)",
+  "proj4": "",
+  "trans": [
+    1071,
+    1074,
+    8650
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

@@ -1,0 +1,31 @@
+{
+  "accuracy": 1,
+  "area": "Portugal - mainland - onshore.",
+  "authority": "EPSG",
+  "bbox": [
+    42.16,
+    -9.56,
+    36.95,
+    -6.19
+  ],
+  "code": "62746405",
+  "default_trans": 1987,
+  "kind": "CRS-GEOGCRS",
+  "name": "Datum 73 (deg)",
+  "proj4": "",
+  "trans": [
+    1657,
+    1658,
+    1792,
+    1793,
+    1945,
+    1983,
+    1987,
+    1992,
+    5036,
+    5037,
+    6189
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

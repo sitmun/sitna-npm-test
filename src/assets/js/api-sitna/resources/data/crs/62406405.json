@@ -1,0 +1,24 @@
+{
+  "accuracy": 3,
+  "area": "Thailand - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    20.46,
+    95.52,
+    5.63,
+    105.64
+  ],
+  "code": "62406405",
+  "default_trans": 1812,
+  "kind": "CRS-GEOGCRS",
+  "name": "Indian 1975 (deg)",
+  "proj4": "",
+  "trans": [
+    1154,
+    1304,
+    1537,
+    1812
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

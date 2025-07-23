@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "United Kingdom (UK) - Great Britain - England and Wales onshore, Scotland onshore and Western Isles nearshore including Sea of the Hebrides and The Minch; Isle of Man onshore.",
+  "authority": "EPSG",
+  "bbox": [
+    60.94,
+    -8.82,
+    49.79,
+    1.92
+  ],
+  "code": "62786405",
+  "default_trans": 0,
+  "kind": "CRS-GEOGCRS",
+  "name": "OSGB70 (deg)",
+  "proj4": "",
+  "trans": [],
+  "unit": "degree",
+  "wkt": ""
+}

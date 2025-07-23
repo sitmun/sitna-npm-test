@@ -1,0 +1,21 @@
+{
+  "accuracy": 11,
+  "area": "Suriname - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    9.35,
+    -58.08,
+    1.83,
+    -52.66
+  ],
+  "code": "63116405",
+  "default_trans": 1235,
+  "kind": "CRS-GEOGCRS",
+  "name": "Zanderij (deg)",
+  "proj4": "",
+  "trans": [
+    1235
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

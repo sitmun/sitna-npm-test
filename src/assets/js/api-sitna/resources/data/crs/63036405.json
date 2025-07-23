@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "United Arab Emirates (UAE) - Abu Dhabi onshore and Dubai onshore.",
+  "authority": "EPSG",
+  "bbox": [
+    25.34,
+    51.56,
+    22.63,
+    56.03
+  ],
+  "code": "63036405",
+  "default_trans": 0,
+  "kind": "CRS-GEOGCRS",
+  "name": "TC(1948) (deg)",
+  "proj4": "",
+  "trans": [],
+  "unit": "degree",
+  "wkt": ""
+}

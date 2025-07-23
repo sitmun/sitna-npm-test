@@ -1,0 +1,38 @@
+{
+  "accuracy": 5,
+  "area": "Angola - Angola proper - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    -5.82,
+    8.2,
+    -18.02,
+    24.09
+  ],
+  "code": "62206405",
+  "default_trans": 1327,
+  "kind": "CRS-GEOGCRS",
+  "name": "Camacupa (deg)",
+  "proj4": "",
+  "trans": [
+    1317,
+    1318,
+    1319,
+    1320,
+    1321,
+    1322,
+    1323,
+    1324,
+    1325,
+    1326,
+    1327,
+    8393,
+    8695,
+    8696,
+    8883,
+    8884,
+    9904,
+    9905
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

@@ -1,0 +1,22 @@
+{
+  "accuracy": 1,
+  "area": "Greenland - Scoresbysund area onshore.",
+  "authority": "EPSG",
+  "bbox": [
+    74.58,
+    -29.69,
+    68.66,
+    -19.89
+  ],
+  "code": "61956405",
+  "default_trans": 1799,
+  "kind": "CRS-GEOGCRS",
+  "name": "Scoresbysund 1952 (deg)",
+  "proj4": "",
+  "trans": [
+    1799,
+    15899
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

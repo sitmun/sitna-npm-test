@@ -1,0 +1,21 @@
+{
+  "accuracy": 44,
+  "area": "Seychelles - onshore and offshore - Alphonse, Bijoutier, St Francois Islands, St Pierre islet, Cosmoledo Islands, Amirantes, Aldabra, Farquhar, and Desroches.",
+  "authority": "EPSG",
+  "bbox": [
+    -0.37,
+    43.19,
+    -12.72,
+    59.66
+  ],
+  "code": "62566405",
+  "default_trans": 1164,
+  "kind": "CRS-GEOGCRS",
+  "name": "Mahe 1971 (deg)",
+  "proj4": "",
+  "trans": [
+    1164
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

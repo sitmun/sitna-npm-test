@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "Madagascar - onshore",
+  "authority": "ESRI",
+  "bbox": [
+    -11.89,
+    43.18,
+    -25.64,
+    50.56
+  ],
+  "code": "102590",
+  "default_trans": 0,
+  "kind": "CRS-PROJCRS",
+  "name": "Tananarive 1925 Laborde Grid (Greenwich, degrees)",
+  "proj4": "+proj=labrd +lat_0=-18.9 +lon_0=46.4372291666667 +azi=18.9 +k=0.9995 +x_0=400000 +y_0=800000 +ellps=intl +units=m +no_defs +type=crs",
+  "trans": [],
+  "unit": "",
+  "wkt": "PROJCS[\"Tananarive_1925_Laborde_Grid (deprecated)\",GEOGCS[\"Tananarive\",DATUM[\"Tananarive_1925\",SPHEROID[\"International 1924\",6378388,297,AUTHORITY[\"EPSG\",\"7022\"]],AUTHORITY[\"EPSG\",\"6297\"]],PRIMEM[\"Greenwich\",0],UNIT[\"Degree\",0.0174532925199433]],PROJECTION[\"Laborde_Oblique_Mercator\"],PARAMETER[\"latitude_of_center\",-18.9],PARAMETER[\"longitude_of_center\",46.4372291666667],PARAMETER[\"azimuth\",18.9],PARAMETER[\"scale_factor\",0.9995],PARAMETER[\"false_easting\",400000],PARAMETER[\"false_northing\",800000],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"ESRI\",\"102590\"]]"
+}

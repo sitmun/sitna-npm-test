@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "Europe - 36~E to 42~E and ETRS89 by country",
+  "authority": "ESRI",
+  "bbox": [
+    79.07,
+    36,
+    72.99,
+    38.01
+  ],
+  "code": "103537",
+  "default_trans": 0,
+  "kind": "CRS-PROJCRS",
+  "name": "ETRF 1989 UTM Zone 37N (DEPRECATED)",
+  "proj4": "+proj=utm +zone=37 +ellps=GRS80 +units=m +no_defs +type=crs",
+  "trans": [],
+  "unit": "",
+  "wkt": "PROJCS[\"ETRF_1989_UTM_Zone_37N (deprecated)\",GEOGCS[\"ETRF89\",DATUM[\"European_Terrestrial_Reference_Frame_1989\",SPHEROID[\"GRS 1980\",6378137,298.257222101,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"EPSG\",\"1178\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"9059\"]],PROJECTION[\"Transverse_Mercator\"],PARAMETER[\"latitude_of_origin\",0],PARAMETER[\"central_meridian\",39],PARAMETER[\"scale_factor\",0.9996],PARAMETER[\"false_easting\",500000],PARAMETER[\"false_northing\",0],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AXIS[\"Easting\",EAST],AXIS[\"Northing\",NORTH],AUTHORITY[\"ESRI\",\"103537\"]]"
+}

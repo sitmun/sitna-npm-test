@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "Venezuela",
+  "authority": "ESRI",
+  "bbox": [
+    16.75,
+    -73.38,
+    0.64,
+    -58.95
+  ],
+  "code": "104110",
+  "default_trans": 0,
+  "kind": "CRS-GEOGCRS",
+  "name": "REGVEN",
+  "proj4": "+proj=longlat +ellps=GRS80 +no_defs +type=crs",
+  "trans": [],
+  "unit": "",
+  "wkt": "GEOGCS[\"GCS_REGVEN (deprecated)\",DATUM[\"D_REGVEN\",SPHEROID[\"GRS 1980\",6378137,298.257222101,AUTHORITY[\"EPSG\",\"7019\"]],AUTHORITY[\"ESRI\",\"106267\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"ESRI\",\"104110\"]]"
+}

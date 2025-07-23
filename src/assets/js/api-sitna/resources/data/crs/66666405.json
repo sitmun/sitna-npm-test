@@ -1,0 +1,23 @@
+{
+  "accuracy": 1,
+  "area": "Portugal - mainland - onshore.",
+  "authority": "EPSG",
+  "bbox": [
+    42.16,
+    -9.56,
+    36.95,
+    -6.19
+  ],
+  "code": "66666405",
+  "default_trans": 1990,
+  "kind": "CRS-GEOGCRS",
+  "name": "Lisbon 1890 (deg)",
+  "proj4": "",
+  "trans": [
+    1986,
+    1990,
+    5039
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

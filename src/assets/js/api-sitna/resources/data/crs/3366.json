@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "China - Hong Kong - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    22.58,
+    113.76,
+    22.13,
+    114.51
+  ],
+  "code": "3366",
+  "default_trans": 0,
+  "kind": "CRS-PROJCRS",
+  "name": "Hong Kong 1963 Grid System",
+  "proj4": "+proj=cass +lat_0=22.3121333333333 +lon_0=114.178555555556 +x_0=40243.5777560424 +y_0=19069.9335151258 +a=6378293.64520876 +b=6356617.98767984 +units=m +no_defs +type=crs",
+  "trans": [],
+  "unit": "metre",
+  "wkt": "PROJCS[\"Hong Kong 1963 Grid System (deprecated)\",GEOGCS[\"Hong Kong 1963\",DATUM[\"Hong_Kong_1963\",SPHEROID[\"Clarke 1858\",6378293.64520876,294.260676369261,AUTHORITY[\"EPSG\",\"7007\"]],AUTHORITY[\"EPSG\",\"6738\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4738\"]],PROJECTION[\"Cassini_Soldner\"],PARAMETER[\"latitude_of_origin\",22.3121333333333],PARAMETER[\"central_meridian\",114.178555555556],PARAMETER[\"false_easting\",40243.5777560424],PARAMETER[\"false_northing\",19069.9335151258],UNIT[\"metre\",1,AUTHORITY[\"EPSG\",\"9001\"]],AUTHORITY[\"EPSG\",\"3366\"]]"
+}

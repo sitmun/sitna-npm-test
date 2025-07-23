@@ -1,0 +1,31 @@
+{
+  "accuracy": 1,
+  "area": "Hungary.",
+  "authority": "EPSG",
+  "bbox": [
+    48.58,
+    16.11,
+    45.74,
+    22.9
+  ],
+  "code": "62376405",
+  "default_trans": 1242,
+  "kind": "CRS-GEOGCRS",
+  "name": "HD72 (deg)",
+  "proj4": "",
+  "trans": [
+    1242,
+    1273,
+    1448,
+    1449,
+    1677,
+    1829,
+    1830,
+    1831,
+    8183,
+    10663,
+    10668
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "Japan - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    46.05,
+    122.38,
+    17.09,
+    157.65
+  ],
+  "code": "66126413",
+  "default_trans": 0,
+  "kind": "CRS-GEOG3DCRS",
+  "name": "JGD2000 (3D deg)",
+  "proj4": "",
+  "trans": [],
+  "unit": "degree",
+  "wkt": ""
+}

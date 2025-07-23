@@ -1,0 +1,28 @@
+{
+  "accuracy": 5,
+  "area": "Lebanon - onshore. Syrian Arab Republic - onshore.",
+  "authority": "EPSG",
+  "bbox": [
+    37.3,
+    35.04,
+    32.31,
+    42.38
+  ],
+  "code": "62276405",
+  "default_trans": 15742,
+  "kind": "CRS-GEOGCRS",
+  "name": "Deir ez Zor (deg)",
+  "proj4": "",
+  "trans": [
+    1584,
+    1585,
+    1586,
+    1587,
+    8568,
+    15741,
+    15742,
+    15743
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

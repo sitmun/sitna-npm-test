@@ -1,0 +1,26 @@
+{
+  "accuracy": 5,
+  "area": "Germany - states of former East Germany - Berlin, Brandenburg; Mecklenburg-Vorpommern; Sachsen; Sachsen-Anhalt; Thuringen.",
+  "authority": "EPSG",
+  "bbox": [
+    54.74,
+    9.92,
+    50.2,
+    15.04
+  ],
+  "code": "61786405",
+  "default_trans": 15998,
+  "kind": "CRS-GEOGCRS",
+  "name": "Pulkovo 1942(83) (deg)",
+  "proj4": "",
+  "trans": [
+    1674,
+    1675,
+    1775,
+    7806,
+    15996,
+    15998
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

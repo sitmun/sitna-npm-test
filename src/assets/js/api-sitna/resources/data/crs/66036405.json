@@ -1,0 +1,21 @@
+{
+  "accuracy": 10,
+  "area": "Grenada and southern Grenadine Islands - onshore.",
+  "authority": "EPSG",
+  "bbox": [
+    12.57,
+    -61.84,
+    11.94,
+    -61.35
+  ],
+  "code": "66036405",
+  "default_trans": 1443,
+  "kind": "CRS-GEOGCRS",
+  "name": "Grenada 1953 (deg)",
+  "proj4": "",
+  "trans": [
+    1443
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

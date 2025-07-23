@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "Not specified.",
+  "authority": "EPSG",
+  "bbox": [
+    90,
+    -180,
+    -90,
+    180
+  ],
+  "code": "5805",
+  "default_trans": 0,
+  "kind": "CRS-ENGCRS",
+  "name": "EPSG seismic bin grid example B",
+  "proj4": "",
+  "trans": [],
+  "unit": "Bin width 165 US survey feet",
+  "wkt": ""
+}

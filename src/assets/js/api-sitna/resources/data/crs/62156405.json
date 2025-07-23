@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "Belgium - onshore.",
+  "authority": "EPSG",
+  "bbox": [
+    51.51,
+    2.5,
+    49.5,
+    6.4
+  ],
+  "code": "62156405",
+  "default_trans": 0,
+  "kind": "CRS-GEOGCRS",
+  "name": "Belge 1950 (deg)",
+  "proj4": "",
+  "trans": [],
+  "unit": "degree",
+  "wkt": ""
+}

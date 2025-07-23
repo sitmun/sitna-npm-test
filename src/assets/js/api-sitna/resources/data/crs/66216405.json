@@ -1,0 +1,22 @@
+{
+  "accuracy": 10,
+  "area": "Guadeloupe - onshore - St Martin and St Barthélemy islands.",
+  "authority": "EPSG",
+  "bbox": [
+    18.17,
+    -63.21,
+    17.82,
+    -62.73
+  ],
+  "code": "66216405",
+  "default_trans": 1903,
+  "kind": "CRS-GEOGCRS",
+  "name": "Fort Marigot (deg)",
+  "proj4": "",
+  "trans": [
+    1903,
+    5493
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

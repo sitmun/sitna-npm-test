@@ -1,0 +1,22 @@
+{
+  "accuracy": 1,
+  "area": "Greenland - Ammassalik area onshore.",
+  "authority": "EPSG",
+  "bbox": [
+    65.91,
+    -38.86,
+    65.52,
+    -36.81
+  ],
+  "code": "61966405",
+  "default_trans": 1800,
+  "kind": "CRS-GEOGCRS",
+  "name": "Ammassalik 1958 (deg)",
+  "proj4": "",
+  "trans": [
+    1800,
+    15900
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

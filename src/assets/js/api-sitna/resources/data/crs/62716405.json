@@ -1,0 +1,22 @@
+{
+  "accuracy": 26,
+  "area": "Trinidad and Tobago - Tobago - onshore.",
+  "authority": "EPSG",
+  "bbox": [
+    11.41,
+    -60.9,
+    11.08,
+    -60.44
+  ],
+  "code": "62716405",
+  "default_trans": 1307,
+  "kind": "CRS-GEOGCRS",
+  "name": "Naparima 1972 (deg)",
+  "proj4": "",
+  "trans": [
+    1192,
+    1307
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

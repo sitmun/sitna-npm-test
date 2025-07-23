@@ -1,0 +1,21 @@
+{
+  "accuracy": "",
+  "area": "Description of the extent of the CRS.",
+  "authority": "EPSG",
+  "bbox": [
+    90,
+    -180,
+    -90,
+    180
+  ],
+  "code": "5806",
+  "default_trans": 0,
+  "kind": "CRS-ENGCRS",
+  "name": "EPSG local engineering grid example A",
+  "proj4": "",
+  "trans": [
+    4464
+  ],
+  "unit": "metre",
+  "wkt": ""
+}

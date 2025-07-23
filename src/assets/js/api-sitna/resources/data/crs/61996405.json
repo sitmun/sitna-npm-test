@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "Egypt - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    33.82,
+    24.7,
+    21.89,
+    37.91
+  ],
+  "code": "61996405",
+  "default_trans": 0,
+  "kind": "CRS-GEOGCRS",
+  "name": "Egypt 1930 (deg)",
+  "proj4": "",
+  "trans": [],
+  "unit": "degree",
+  "wkt": ""
+}

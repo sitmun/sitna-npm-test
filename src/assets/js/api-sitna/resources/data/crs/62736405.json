@@ -1,0 +1,22 @@
+{
+  "accuracy": 3,
+  "area": "Norway - onshore.",
+  "authority": "EPSG",
+  "bbox": [
+    71.24,
+    4.39,
+    57.9,
+    31.32
+  ],
+  "code": "62736405",
+  "default_trans": 1654,
+  "kind": "CRS-GEOGCRS",
+  "name": "NGO 1948 (deg)",
+  "proj4": "",
+  "trans": [
+    1653,
+    1654
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

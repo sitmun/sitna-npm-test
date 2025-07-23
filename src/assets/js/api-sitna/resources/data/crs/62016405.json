@@ -1,0 +1,27 @@
+{
+  "accuracy": 9,
+  "area": "Eritrea; Ethiopia; South Sudan; Sudan.",
+  "authority": "EPSG",
+  "bbox": [
+    22.24,
+    21.82,
+    3.4,
+    47.99
+  ],
+  "code": "62016405",
+  "default_trans": 1100,
+  "kind": "CRS-GEOGCRS",
+  "name": "Adindan (deg)",
+  "proj4": "",
+  "trans": [
+    1100,
+    1101,
+    1102,
+    1103,
+    1104,
+    1105,
+    1106
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

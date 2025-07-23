@@ -1,27 +1,15 @@
-# SitnaNpmTest
+# Sitna Npm Test
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
+This project was built using [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
 
-## Development server
+The goal of this small repository is to provide a basic template for a web application built in Typescript 
+and Angular CLI from which the API Sitna is invoked. The main problem 
+encountered was installing the API (version 4.6.0) using NPM and using it within a Typescript program, since 
+the library does not have the type definition required by the language.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+To install the library, the steps indicated in the official [API](https://sitna.navarra.es/api/doc/) documentation 
+were followed.
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+To avoid syntax errors, a simple typing file has been generated with the library exports, which allows it to be 
+used from a Typescript file, but when making an invocation or call to any object in the library, it is not 
+possible to build the application due to memory problems (possible infinite loop in type inference).

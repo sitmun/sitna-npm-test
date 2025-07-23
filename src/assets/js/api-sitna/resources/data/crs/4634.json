@@ -1,0 +1,22 @@
+{
+  "accuracy": "",
+  "area": "New Caledonia - Grande Terre.",
+  "authority": "EPSG",
+  "bbox": [
+    -20.03,
+    163.92,
+    -22.45,
+    167.09
+  ],
+  "code": "4634",
+  "default_trans": 0,
+  "kind": "CRS-GEOGCRS",
+  "name": "IGN72 Grand Terre",
+  "proj4": "+proj=longlat +ellps=intl +no_defs +type=crs",
+  "trans": [
+    1918,
+    1929
+  ],
+  "unit": "degree minute second hemisphere",
+  "wkt": "GEOGCS[\"IGN72 Grand Terre (deprecated)\",DATUM[\"IGN72_Grande_Terre\",SPHEROID[\"International 1924\",6378388,297,AUTHORITY[\"EPSG\",\"7022\"]],AUTHORITY[\"EPSG\",\"6634\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree minute second hemisphere\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9108\"]],AUTHORITY[\"EPSG\",\"4634\"]]"
+}

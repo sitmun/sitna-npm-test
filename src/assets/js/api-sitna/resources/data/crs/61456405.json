@@ -1,0 +1,27 @@
+{
+  "accuracy": 999,
+  "area": "Pakistan - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    37.07,
+    60.86,
+    21.05,
+    77.83
+  ],
+  "code": "61456405",
+  "default_trans": 1247,
+  "kind": "CRS-GEOGCRS",
+  "name": "Kalianpur 1962 (deg)",
+  "proj4": "",
+  "trans": [
+    1247,
+    9234,
+    15494,
+    15701,
+    15702,
+    15703,
+    15704
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

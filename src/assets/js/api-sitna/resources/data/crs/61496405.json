@@ -1,0 +1,29 @@
+{
+  "accuracy": 1.5,
+  "area": "Liechtenstein; Switzerland.",
+  "authority": "EPSG",
+  "bbox": [
+    47.81,
+    5.96,
+    45.82,
+    10.49
+  ],
+  "code": "61496405",
+  "default_trans": 1766,
+  "kind": "CRS-GEOGCRS",
+  "name": "CH1903 (deg)",
+  "proj4": "",
+  "trans": [
+    1508,
+    1510,
+    1646,
+    1753,
+    1766,
+    7673,
+    7674,
+    7788,
+    15486
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

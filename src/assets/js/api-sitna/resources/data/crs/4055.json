@@ -1,0 +1,21 @@
+{
+  "accuracy": "",
+  "area": "World.",
+  "authority": "EPSG",
+  "bbox": [
+    90,
+    -180,
+    -90,
+    180
+  ],
+  "code": "4055",
+  "default_trans": 0,
+  "kind": "CRS-GEOGCRS",
+  "name": "Popular Visualisation CRS",
+  "proj4": "+proj=longlat +R=6378137 +no_defs +type=crs",
+  "trans": [
+    15973
+  ],
+  "unit": "degree (supplier to define representation)",
+  "wkt": "GEOGCS[\"Popular Visualisation CRS (deprecated)\",DATUM[\"Popular_Visualisation_Datum\",SPHEROID[\"Popular Visualisation Sphere\",6378137,0,AUTHORITY[\"EPSG\",\"7059\"]],AUTHORITY[\"EPSG\",\"6055\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AUTHORITY[\"EPSG\",\"4055\"]]"
+}

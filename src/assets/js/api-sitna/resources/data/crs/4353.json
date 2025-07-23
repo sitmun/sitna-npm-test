@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "Japan - onshore and offshore.",
+  "authority": "EPSG",
+  "bbox": [
+    46.05,
+    122.38,
+    17.09,
+    157.65
+  ],
+  "code": "4353",
+  "default_trans": 0,
+  "kind": "CRS-GEOG3DCRS",
+  "name": "JGD2000 (3D)",
+  "proj4": "+proj=longlat +ellps=GRS80 +no_defs +type=crs",
+  "trans": [],
+  "unit": "degree minute second hemisphere",
+  "wkt": ""
+}

@@ -1,0 +1,21 @@
+{
+  "accuracy": 0.5,
+  "area": "Iran - Taheri refinery site.",
+  "authority": "EPSG",
+  "bbox": [
+    27.61,
+    52.5,
+    27.39,
+    52.71
+  ],
+  "code": "61536405",
+  "default_trans": 1512,
+  "kind": "CRS-GEOGCRS",
+  "name": "Rassadiran (deg)",
+  "proj4": "",
+  "trans": [
+    1512
+  ],
+  "unit": "degree",
+  "wkt": ""
+}

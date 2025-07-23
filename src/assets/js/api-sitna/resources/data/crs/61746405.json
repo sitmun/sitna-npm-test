@@ -1,0 +1,19 @@
+{
+  "accuracy": "",
+  "area": "Sierra Leone - Freetown Peninsula.",
+  "authority": "EPSG",
+  "bbox": [
+    8.55,
+    -13.34,
+    8.32,
+    -13.13
+  ],
+  "code": "61746405",
+  "default_trans": 0,
+  "kind": "CRS-GEOGCRS",
+  "name": "Sierra Leone 1924 (deg)",
+  "proj4": "",
+  "trans": [],
+  "unit": "degree",
+  "wkt": ""
+}
